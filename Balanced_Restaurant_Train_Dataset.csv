@@ -1,0 +1,905 @@
+Unnamed: 0,sentence,#aspect terms,aspect_terms,at_polarity,main_sentiment
+2731,"हाँ, कभी-कभी service slow हो सकती है।",1,['service'],['negative'],negative
+394,Service awful है - last time जब मैं वहां था (और मेरा मतलब है कि last time) हमें बताया गया था कि उन्हें हमारे table की need थी इसलिए हमें जाना होगा।,2,"['Service', 'table']","['negative', 'negative']",negative
+1989,Boot के लिए zero ambiance.,1,['ambiance'],['negative'],negative
+2139,NY में better prices में बहुत से अच्छे places हैं।,1,['prices'],['negative'],negative
+2220,कुल मिलाकर उस price category के लिए एक disappointing experience है.,1,['price'],['negative'],negative
+2057,बस किसी को ले आओ जो Cantonese बोलता हो क्योंकि waiter आपको understand नहीं कर पायेगा।,1,['waiter'],['negative'],negative
+1515,मेरे dining experience को uncomfortable बना दिया।,1,['dining experience'],['negative'],negative
+430,"सबसे greatest sushi place नहीं, लेकिन $ 19.95 के लिए excellent आप सभी खा सकते हैं।",1,['sushi place'],['negative'],negative
+3006,हमें कहा गया था कि वे solid booked किए गए थे और कोई दूसरा table available नहीं था।,1,['table'],['negative'],negative
+2790,बस small dishes के साथ stick रहो,1,['dishes'],['negative'],negative
+2064,"हमेशा popular, हमेशा full, हमेशा एक wait के साथ।",1,['wait'],['negative'],negative
+386,Japanese food में अब तक का मैंने worst excuse देखा है।,1,['Japanese food'],['negative'],negative
+1561,Waiter ने actually मेरे hand पर water गिरा दिया और चला गया।,2,"['Waiter', 'water']","['negative', 'neutral']",negative
+2716,Edible लेकिन really उस area में दिये गए उन prices के जैसा हो।,1,['prices'],['negative'],negative
+1060,Food lousy - बहुत sweet या बहुत salty और portions tiny था।,2,"['Food', 'portions']","['negative', 'negative']",negative
+388,ऐसी lousy service पर कोई excuse नहीं!,1,['service'],['negative'],negative
+2991,वह meal के बाद भी terribly thirsty था।,1,['meal'],['negative'],negative
+1327,Sauces का भी use उतना exciting नहीं है।,1,['Sauces'],['negative'],negative
+377,अब यदि उन्हे केवल एक toaster मिल जाता।,1,['toaster'],['negative'],negative
+1056,उनके dine के लिए prices अधिक हैं और उनका chicken tikka masala काफी अच्छा है।,2,"['prices', 'chicken tikka masala']","['negative', 'positive']",negative
+56,"वे कभी भी हमारे लिए complimentary noodles नहीं लाए,  बार-बार sugar लाने के requests को ignore कर दिया और हमारे dishes को table पर रख दिया।",3,"['noodles', 'sugar', 'dishes']","['negative', 'negative', 'negative']",negative
+1234,कमियां: service slow है और वे toast नहीं देते हैं!,1,['service'],['negative'],negative
+151,"किसी ने सोचा कि हमें apology या complimentary drinks मिलेगा - बजाय इसके, हमें एक snobby waiter मिला जिसने 15 मिनट तक हमारा order भी नहीं लिया और जब हमने उसे ऐसा करने के लिए कहा तो उसने हमें lip दिया।",2,"['waiter', 'drinks']","['negative', 'neutral']",negative
+2860,"जबकि अधिकतर people New Yorks के bars में drinks पर $50 से अधिक spend करने को attest कर सकते हैं और शायद ही कुछ feel कर रहे हों, यहां drinks plentiful और unique हैं।",3,"['drinks', 'bars', 'drinks']","['negative', 'negative', 'positive']",negative
+618,"हमने special, grilled branzino का order किया, वह bone पर ऐसे infused था कि खाना मुश्किल था।",1,['grilled branzino'],['negative'],negative
+893,हमने एक tuna melt order किया - यह बिना cheese के आया जिसमें बस एक tuna sandwich बना।,3,"['tuna melt', 'cheese', 'tuna sandwich']","['negative', 'neutral', 'negative']",negative
+360,"हालांकि, मैं वहाँ बहुत time पहले dinner के लिए गया था जब London के मेरे colleague ने ceiling पर एक बहुत बड़े waterbug को देखा।",2,"['ceiling', 'dinner']","['negative', 'neutral']",negative
+2574,"ओह, लेकिन wait, हमारा drinks ख़तम हो गया है (जोकि delightfully overpriced था)।",1,['drinks'],['negative'],negative
+2914,"हालाकि, यह service है जो मेरे mouth में bad taste दे जाता है।",1,['service'],['negative'],negative
+275,मेरे friend का food भी इसके taste के complete opposite था (aNd जैसा दिखता है)।,1,['food'],['negative'],negative
+2917,"Vegetarian dishes के लिए Tamarind में dine ना करें, वे non-veg selections के लिए simply बराबर नहीं हैं।",2,"['Vegetarian dishes', 'non-veg selections']","['negative', 'positive']",negative
+2481,हमें drink refills नहीं मिली और उसने हमें dessert का option भी offer नहीं किया।,2,"['drink refills', 'dessert']","['negative', 'neutral']",negative
+1273,हम एक good meal के लिए फिर से इस place पर नहीं जाएंगे।,1,['meal'],['negative'],negative
+2149,"दोनों times, मैं service से बहुत dissappointed था, जोकि boarderline rude था।",1,['service'],['negative'],negative
+2600,"वे कम से कम में helpful नहीं हैं और आप इस time तक के आस-पास grand run पाएंगे, जब तक कि आपके आस-पास की event date न केवल इस place को चुनने का पछतावा होगा, बल्कि hostile भी हो जाएगा!",1,['place'],['negative'],negative
+370,Manager ने claim किया कि वह bill पर किसी भी चीज के लिए हमें compensate नहीं कर सकता है जो कि entire group में sophistication की lackness को show करता है।,2,"['Manager', 'bill']","['negative', 'neutral']",negative
+1417,"Nha Trang, comfort और decor की पूरी तरह से कमी के लिए notorious होने के बावजूद, horribly रूप से  slow wait staff और horribly quick meals, मैं अब तक के सबसे अच्छे vietnamese restaurants में से एक है। जहां pho delicious और बहुत fresh vegtables के साथ आता है।",6,"['comfort', 'decor', 'wait staff', 'meals', 'pho', 'vegtables']","['negative', 'negative', 'negative', 'negative', 'positive', 'positive']",negative
+594,Menu limited है लेकिन लगभग सभी dishes उत्तम है।,2,"['Menu', 'dishes']","['negative', 'positive']",negative
+184,"वह man जो party को host कर रहा था, 7 में से 1 table हमारे party के लिए save करने का promise किया था, फिर उसी table पर 2 के party को sat करके वह save (के दौरान दोनों पूरा खुल जाते थे) करने लगा।",3,"['man', 'table', 'table']","['negative', 'neutral', 'negative']",negative
+2070,"अगर omakase को technique और variety का showcase, 40% से ज्यादा items BBQ-ed की serving है और एक spicy tuna roll, जो fresh nori में लिपटा हुआ भी नहीं, बल्कि एक limp performance सी दिख रही है।",3,"['spicy tuna roll', 'serving', 'nori']","['negative', 'neutral', 'negative']",negative
+2395,इस restaurant का fallback केवल इसके prices हैं।,1,['prices'],['negative'],negative
+886,"जैसा कि हम सब बैठकर subpar food खा रहे थे, manager ने अपने कुछ employees को मसालों के गलत containers for condiments के लिए गाली दिया और उन्हें समझाया कि ये containers कितने expensive थे।",5,"['food', 'employees', 'containers for condiments', 'containers', 'manager']","['negative', 'negative', 'negative', 'neutral', 'negative']",negative
+1631,"यह एक problem है क्योंकि हमने एक dish का लगभग 20 bucks paid किया है, और एक decent taste के लिए 5 dishes का order करना पड़ा।",3,"['dish', 'taste', 'dishes']","['negative', 'neutral', 'negative']",negative
+403,"Night में, लेकिन उसी luxury के लिए competition करने वाले अन्य सभी के साथ अपनी खुद का conversation सुनना मुश्किल है - background में बजने वाला music भी voluminous है।",1,['music'],['negative'],negative
+1059,इसकी website में restaurant की photos असल look से अच्छी है।,1,['look'],['negative'],negative
+162,"कुल मिलाकर A oh ya, हालांकि वहाँ waiting deff लायक है।",1,['waiting'],['negative'],negative
+1082,"यह place cold day पर थोड़ा tight है, entrance पर seating के लिए way थोड़ा drafty हो सकता है।",2,"['seating', 'place']","['negative', 'negative']",negative
+2129,"मेरा एकमात्र concern सभी business waitstaff के साथ है, जो आपको बाहर निकालते हुए food order करते हैं और नीचे throw कर देते हैं।",2,"['waitstaff', 'food']","['negative', 'neutral']",negative
+392,"restaurant और bar के बीच में आधे से पिछे तक की seat न लें, मैंने एक women को 40 times वहां nudged होकर बैठे देखा है।",2,"['seat', 'bar']","['negative', 'neutral']",negative
+1772,"जब हम finally बैठे थे तो हमारी waitress हमारे order के लिए दो बार आई, 1 हमारे order के लिए और 2-हमें check करने के लिए।",2,"['waitress', 'check']","['negative', 'neutral']",negative
+2649,Waiters और owners इसके बारे में nonchalant थे और exterminator को call करने के लिए promise किया था लेकिन जैसा कि मैंने उम्मीद की थी कि dismayed या apologetic नहीं थीं।,2,"['Waiters', 'owners']","['negative', 'negative']",negative
+87,अन्य people wait कर रहे हैं!,1,['wait'],['negative'],negative
+2812,"मैं thirty minutes के लिए online wait करने से thrilled नहीं था, लेकिन मैं guess करता हूं कि यही वो price है जो आप popular place के लिए pay करते हैं।",1,['wait'],['negative'],negative
+822,बहुत bad food एक ही heritage का नहीं था।,1,['food'],['negative'],negative
+4,"मेरे husband ने कहा कि portions बहुत small थे, लेकिन अगर मेरे main course का portion खाने में अच्छा होता तो मेरे लिए ठीक होता।",3,"['portions', 'portion', 'main course']","['negative', 'positive', 'negative']",negative
+104,ऊपर के intermediate range में priced है।,1,['priced'],['negative'],negative
+2005,"हमने chicken casserole का order किया, लेकिन हमें chicken के कुछ small pieces मिले, सभी dark meat और bone वाले थे।",3,"['chicken casserole', 'chicken', 'meat']","['negative', 'negative', 'negative']",negative
+2670,यह place prices के लायक नहीं है।,1,['prices'],['negative'],negative
+286,"अधिक price, और छोटे portions.",2,"['price', 'portions']","['negative', 'negative']",negative
+1537,"Entree धुंधली और छोटी थी, dessert inspire नहीं की थी।",2,"['Entree', 'dessert']","['negative', 'negative']",negative
+2347,"इस place की तुलना Mamoun's में price के साथ, freshness, value, और consistent quality के लिए नहीं करता है, लेकिन यह मेरा केवल opinion है।",4,"['price', 'freshness', 'value', 'quality']","['negative', 'negative', 'negative', 'negative']",negative
+496,मैंने Chicken Teriyaki dish का order किया और पाया कि chicken पूरी तरह से dry था।,2,"['Chicken Teriyaki dish', 'chicken']","['negative', 'negative']",negative
+2051,मैंने उससे उसके employees को लेकर comments overheard किया कि यह dining area में delivered नहीं होना चाहिए था और जबकि मैं वहाँ बैठा हूँ उसने दूसरे customer को lecture दिया।,2,"['employees', 'dining area']","['negative', 'neutral']",negative
+2018,Taj Mahal को छोड़कर बहुतों से और हमने ऊपर और नीचे के बहुत से wandered को खाली windows की seats को देख कर चुना।,1,['seats'],['negative'],negative
+2015,"यदि आप pre-sliced low quality fish लेना mind नहीं करते हैं, तो unfriendly staff और एक sushi chef जो आपके place की तुलना में miserable दिखता है।",3,"['fish', 'staff', 'sushi chef']","['negative', 'negative', 'negative']",negative
+2582,Lamb meat under-cooked और बिलकुल CHEWY था।,1,['Lamb meat'],['negative'],negative
+134,"जरूरत से कम space grant की गयी, largest restaurants में मिलने वाली यह best service है।",2,"['space', 'service']","['negative', 'positive']",negative
+2884,"Food गलत आ गया, waiter कहीं से भी गलत नहीं दिखा और wine meal के अंत में दिखाइ दिया। ",4,"['Food', 'waiter', 'wine', 'meal']","['negative', 'negative', 'negative', 'neutral']",negative
+2352,और bill outragous था।,1,['bill'],['negative'],negative
+690,"यह place वाकई में trendy है लेकिन वे एक restaurant के सबसे important part, food के बारे में भूल गए हैं।",1,['food'],['negative'],negative
+194,हम अपने waiter's eye से पकड़ नहीं पाए और उसने हमें ignore कर दिया।,1,['waiter's'],['negative'],negative
+1191,Sushi बकवास था।,1,['Sushi'],['negative'],negative
+2657,मैं अपने पूरे life में NYC में रहा हूं और एक ही स्थान पर इतने सारे waterbugs पहले कभी नहीं देखे थे (वास्तव में एक bad dream को छोड़कर)।,1,['waterbugs'],['negative'],negative
+2859,"अच्छा, हे, क्योंकि, यह ज्यादा food है लेकिन बुरा है क्योंकि dim sum छोटा portions होना चाहिए इसलिए आप ज्यादा और छोटे dishes try नहीं कर सकते हैं जिससे कि हर dish cheap हो। ",5,"['dim sum', 'food', 'portions', 'dishes', 'dish']","['negative', 'positive', 'negative', 'neutral', 'neutral']",negative
+2161,"Lunch special के लिए $6.25 का price देखते हुए, dish ridiculously small था।",3,"['price', 'dish', 'Lunch special']","['negative', 'negative', 'negative']",negative
+775,"जब तक हम न कहें, वो हमें dinner special न दें।",1,['dinner special'],['negative'],negative
+2134,आप असल में 2 salads worth पा सकते हैं यदि आप इसे home ले जाएं और इसमें कुछ lettuce जोड़ें!,2,"['salads', 'lettuce']","['negative', 'neutral']",negative
+115,"यह dinner time में और अक्सर noisy, crowded bar में अंदर जाने और table के लिए waiting से बचाता है।",3,"['bar', 'waiting', 'table']","['negative', 'negative', 'negative']",negative
+218,"Food भयानक है और कुल मिलाकर, मुझे हर cost पर avoid करना होगा।",1,['Food'],['negative'],negative
+474,"किसी reason से, Salmon को छोड़कर menu के सभी seafood अनुपलब्ध थे।",3,"['seafood', 'menu', 'Salmon']","['negative', 'negative', 'neutral']",negative
+1737,मैं इस area में relatively नया हूँ और 2nd पर एक bagel लेने के लिए try किया और service से disappoint हो गया और मुझे लगा कि food pricey side पर बहुत अधिक था।,2,"['service', 'food']","['negative', 'negative']",negative
+703,Food बहुत ज्यादा oily था।,1,['Food'],['negative'],negative
+2927,"Restaurant dark और बहुत attractive नहीं है और तब आपके ऊपर चमकता हुआ spot lights है जो आपको सबसे खराब possible light में, sunglasses से पहुँच रहा है।",1,['spot lights'],['negative'],negative
+296,Service वह नहीं है जो इस price category में एक joint से expect होगी।,2,"['Service', 'price category']","['negative', 'negative']",negative
+946,"यदि food कम से कम अच्छा taste किया जाए तो मैं कभी complain भी नहीं किया हूँ गा, लेकिन food की quality भी भद्दी थी।",2,"['food', 'food की quality']","['negative', 'negative']",negative
+131,Chef और waitress का knowledge average से कम है।,2,"['Chef', 'waitress']","['negative', 'negative']",negative
+97,Sauce watery था और food में ज्यादा flavor नहीं था।,3,"['Sauce', 'food', 'flavor']","['negative', 'negative', 'negative']",negative
+351,"लेकिन जो भी reason हो, prices लगभग twice जैसी high हैं।",1,['prices'],['negative'],negative
+1892,"कमी केवल इतना - वे आपके bagel को toast नहीं करेंगे, और वे bagel के लिए eggs नहीं बनाते हैं।",3,"['bagel', 'eggs', 'bagel']","['negative', 'negative', 'negative']",negative
+2817,"साथ ही, जब हमारी entries busy saturday night को kitchen में रुकी थी, तो owner ने हमे hold करने के लिए complimentary summer rolls भेजा था।",3,"['entries', 'summer rolls', 'owner']","['negative', 'positive', 'positive']",negative
+155,जबकि wines by the glass पर्याप्त नहीं।,1,['wines by the glass'],['negative'],negative
+443,"जबकि, kitchen लगभग अधिकतर slow है।",1,['kitchen'],['negative'],negative
+2110,Place छोटा और cramped है लेकिन food शानदार है।,2,"['Place', 'food']","['negative', 'positive']",negative
+1226,हमे लगा कि यह place foods में बहुत ज्यादा MSG cooking use कर रहा है।,2,"['foods', 'MSG cooking']","['negative', 'negative']",negative
+499,दोनों times हमने एक table के लिए half hour से ज्यादा wait किया (जबकि हमारे पास reservations था)।,2,"['table', 'reservations']","['negative', 'negative']",negative
+1572,"लेकिन उनके पास toaster नहीं है, जो कि strange है।",1,['toaster'],['negative'],negative
+2965,एक तरह का small place है लेकिन मुझे लगता है अगर वो बहुत busy नहीं हैं तो kids या group में fit हो सकते थे।,1,['place'],['negative'],negative
+1040,"Well, उनकी deliveries हमेशा के लिए होती है और food अक्सर cold होता है।",2,"['deliveries', 'food']","['negative', 'negative']",negative
+2436,"Mother's Day पर अपनी mom को ले गया, और maitre d काफी rude था।",1,['maitre d'],['negative'],negative
+1946,Pizza overpriced और soggy है।,1,['Pizza'],['negative'],negative
+2887,"हमने उन्हें कम से कम एक frozen item को heating up करते हुए देखा, हालांकि मुझे यकीन नहीं है कि यह कौन सी dim sum dish थी।",1,['dim sum dish'],['negative'],negative
+39,"Menu Prix Fixe है, इसलिए कम से कम $60 per person spent करने के लिए तैयार रहें, लेकिन यह superb food के लिए Well worth है।",3,"['Menu', 'food', 'Prix Fixe']","['negative', 'positive', 'neutral']",negative
+208,यह place एक group द्वारा served किए जाने से इतना better होगा कि वास्तव में customer service को समझा जा सकेगा।,2,"['service', 'served']","['negative', 'negative']",negative
+1017,"Food बहुत tasty नहीं था, इतने high quality restaurant के लिए भी portions छोटे थे।",2,"['Food', 'portions']","['negative', 'negative']",negative
+2962,Deliveries में अक्सर लगभग एक hour लगता है और prices area के अन्य pizzerias से अधिक है।,2,"['Deliveries', 'prices']","['negative', 'negative']",negative
+2605,"NYC में दूसरे places की तरह आपको जो sandwiches चाहिए वे एक triple-decker में आते हैं, यहाँ आपको reasonably-sized portion (और price) में वो मिल सकता है जो आप चाहते हैं।",3,"['sandwiches', 'price', 'portion']","['negative', 'positive', 'positive']",negative
+1957,"Dim sum के लिए यहाँ wait ज्यादा है, लेकिन अगर आपको tables share करना पसंद नहीं है या अगर typical raucous dim sum atmosphere आपका gig नहीं है, तो यह sleek (Chinatown के लिए) alternative है।",4,"['wait', 'dim sum', 'dim sum atmosphere', 'tables']","['negative', 'neutral', 'neutral', 'positive']",negative
+90,"Plain pizza soggy और कमाल wild mushroom(third generation-Fornini) pizza, हमने truffle oil से middle को (फिर से soggy बनाकर) drenched करके खाया था और कुछ नहीं।",3,"['Plain pizza', 'truffle oil', 'wild mushroom(third generation-Fornini) pizza']","['negative', 'neutral', 'positive']",negative
+2799,"यदि आप cuisine से familiar नहीं हैं, तो आपको यहाँ order करने में problems हो सकती हैं और अपने साथ बहुत सा cash लेकर चलिये क्योंकि यहाँ वो credit cards accept नहीं करते हैं।",1,['cuisine'],['negative'],negative
+716,"Last time जब मैं यहां गया था, तो waitress हमारा order लेने के बाद वापस नहीं आई थी।",1,['waitress'],['negative'],negative
+2163,"बशर्ते, जितनी तुम्हारी bad service होगी, उतना कम money तुम्हें tip में देना है।
+",3,"['service', 'money', 'tip']","['negative', 'negative', 'negative']",negative
+28,"हमने menu के Thai section से कुछ beef और noodle soup dishes मंगवाए, लेकिन हमेंने ऐसा कुछ भी नहीं पाया जो Thai का हो।",3,"['beef', 'noodle soup dishes', 'menu']","['negative', 'negative', 'negative']",negative
+100,"Reservations करें, लेकिन 15-20 minutes तक delay की संभावना है क्योंकि hosting staff को reservation वाले guests के seating में problem हो रही थी क्योंकि शायद Time Square के पास बहुत से walk ins थे।",4,"['hosting staff', 'Reservations', 'reservation', 'seating']","['negative', 'negative', 'neutral', 'negative']",negative
+1199,इस counter में दो men को squeeze किया गया है।,1,['counter'],['negative'],negative
+308,Bartender bar में खुद को friends से दूर करने में unable था।,2,"['Bartender', 'bar']","['negative', 'neutral']",negative
+2833,यदि आप order कर रहे हैं तो यह downside है -- Delivery guys का attitude MAJOR है।,1,['Delivery guys'],['negative'],negative
+2450,हमारे reservation के लिए 20 minutes हैं लेकिन इसने हमें cocktails के लिए कुछ time दिया और हमारे surroundings और आपस में enjoy किया।,3,"['reservation', 'cocktails', 'surroundings']","['negative', 'positive', 'positive']",negative
+334,मेरा steak au poivre सबसे worst स्थिति में खाया था।,1,['steak au poivre'],['negative'],negative
+656,Last time जब मैं गया था तो हम kitchen के बगल में एक corridor में एक table पर बैठे थे।,1,['table'],['negative'],negative
+1985,"Food fresh नहीं था, sauces bland और बहुत oily थे।",2,"['Food', 'sauces']","['negative', 'negative']",negative
+2405,"हाँ, Shanghai भी बहुत great है लेकिन उतना good नहीं है - वे उसी amount का salt प्रयोग करते हैं लेकिन sweetness को balance out किए बिना।",1,['salt'],['negative'],negative
+150,"यह ऐसा है जैसे उन्होने बचा हुआ chicken लिया, oil डाला और उस पर pepper powder sprinkle किया (sauce translucent और लाल था)।",4,"['chicken', 'oil', 'pepper powder', 'sauce']","['negative', 'neutral', 'neutral', 'negative']",negative
+968,"NYC के लिए cheap eat, लेकिन dosa के लिए नहीं।",2,"['dosa', 'eat']","['negative', 'positive']",negative
+1468,मैंने crab cocktail का order दिया और यह एक lime juice concoction में भिगोया गया था जहां आप सभी lime का taste ले सकते थे।,3,"['crab cocktail', 'lime juice concoction', 'lime']","['negative', 'neutral', 'neutral']",negative
+1578,किसी और ने dessert के लिए recommend किया - हमने वह भी छोड़ दिया।,1,['dessert'],['negative'],negative
+140,"यह एक regular roll को एक inside-out roll में बदलने के लिए $2 extra cost लगता है, लेकिन यह roll size में triples से अधिक होता है, और वह केवल rice के लिए नहीं है।",4,"['roll', 'roll', 'roll', 'rice']","['negative', 'negative', 'negative', 'neutral']",negative
+48,Place के नीचे मुख्य downside में nazi जैसा दिखने वाला guy है जो लगातार noise level के बारे में complain करता है।,2,"['noise level', 'guy']","['negative', 'negative']",negative
+1245,यहाँ से जाते हुए यह खुला और quality value कम होते-होते considerable हो गया।,1,['quality value'],['negative'],negative
+2732,कोई ambiance नहीं था।,1,['ambiance'],['negative'],negative
+637,हम stalling करते हुए यह understand कर रहे थे कि ये कहाँ से आ रहे हैं लेकिन हम वहाँ an hour से कम ही रुके और अब तक उन्होने एक बार भी इसे check नहीं किया।,1,['check'],['negative'],negative
+2182,Ambiance कुछ खास romantic नहीं है लेकिन management try करता है।,2,"['Ambiance', 'management']","['negative', 'positive']",negative
+2828,हमने इस Thai place पर reviews को follow कर के खाया है लेकिन foods से बहुत unhappy थे।,1,['foods'],['negative'],negative
+730,मेरे पास Pad Thai था और noodles चिपचिपा था।,2,"['Pad Thai', 'noodles']","['negative', 'negative']",negative
+694,"Service को improve किया जा सकता था लेकिन कुल मिलाकर यह एक place है जहां restaurant experience में small things (Heavy, black, antique-seeming के लिए एक teapot) के importance को समझा जाता है।",2,"['Service', 'teapot']","['negative', 'positive']",negative
+969,"Atmosphere noisy है और waiters literally चीजों को जितनी fast से कर सकते हैं, कर रहे हैं।",2,"['Atmosphere', 'waiters']","['negative', 'conflict']",negative
+1452,"यदि आप new york city में रहते हैं, तो आपको time square के बाहर small restaurants में better food मिलेगा और आधा amount खर्च करना होगा।",2,"['food', 'amount']","['negative', 'negative']",negative
+2204,"Mussaman curry जो मैंने order किया था water की तरह पतला था और उसके अलावा poorly fried tofu था जो इसमें मैंने order किया था, उन्होंने graciously मुझे poorly cooked potato का एक piece दिया।",3,"['Mussaman curry', 'fried tofu', 'potato']","['negative', 'negative', 'negative']",negative
+2278,"जहां तक bar की बात है, यह दूसरा bad idea है।",1,['bar'],['negative'],negative
+1384,और जैसे आपको मिला उसके prices high करने के way थे।,1,['prices'],['negative'],negative
+2261,"मैं Roxy's को उसके लिए recommend करूंगा, लेकिन उनके food के लिए नहीं।",1,['food'],['negative'],negative
+2678,"हां, आपको बैठने के लिए wait करना होगा और क्योंकि यह small है इसलिए कोई waiting area नहीं है और bar में seat पूरी तरह से ले ली गई थी।",4,"['waiting area', 'seat', 'bar', 'wait']","['negative', 'negative', 'neutral', 'negative']",negative
+2192,"Dosas skimpy, unattractive और grease के साथ drip हो रहा है, और personally मैं इससे पहले कि इनमें से एक खाऊं, popcorn topping पी लूंगा। ",2,"['Dosas', 'popcorn topping']","['negative', 'neutral']",negative
+2084,हम केवल pre-fixe menu के 2 choices per course से निराश थे (अन्य restaurants में 3 choices offer करते हैं) और एक ordering a la carte से समाप्त किया।,3,"['pre-fixe menu', 'choices per course', 'ordering a la carte']","['negative', 'neutral', 'negative']",negative
+1271,जैसा कि वह कह रही थी कि उसका bread special bakery से आता है तब हमने उसे downtown manhathan से खरीदते देखा।,1,['bread'],['negative'],negative
+1388,"इतनी rude service होने के बाद, वहाँ रहते हुए किसी भी तरह का conversation करने में interested होने पर किसी को कभी भी recommend नहीं करूंगा।",1,['service'],['negative'],negative
+654,"भयानक service से bland food तक unaccommodating managers का नाम भी नहीं बताया, कुल मिलाकर experience भयानक था।",3,"['service', 'food', 'managers']","['negative', 'negative', 'negative']",negative
+2984,"एक gentleman, शायद manager थे,  हमारे table पर आए, और बिना किसी smile या greetings के हमसे order के लिए पूछा।",2,"['manager', 'table']","['negative', 'neutral']",negative
+992,वह superb service प्रदान करता है और उसकी कोई personality नहीं है।,1,['service'],['negative'],negative
+1645,Website पर menu जैसा यहाँ कुछ भी नहीं है।,1,['menu'],['negative'],negative
+2629,Food वास्तव में aweful था।,1,['Food'],['negative'],negative
+2740,तब तक try मत करो जबतक तुम वहाँ बाँकी सभी hipsters की तरह hang out नहीं करते जिनका कोई sense of taste दिखायी नहीं पड़ता है।,1,['taste'],['negative'],negative
+438,"Service terrible थी, हमें सबकुछ के लिए wait करना पड़ा और इससे पहले कि हमें served किया जाय, कई अलग-अलग people से same thing के लिए पूछना पड़ा।",2,"['Service', 'served']","['negative', 'negative']",negative
+2825,जिस moment से हम अंदर आयें है place packed होने के बावजूद वो ज्यादा accomodating हो रहे थे।,1,['place'],['negative'],negative
+1216,"Oh, मुझे bills को expensive करने के लिए भी start न करने दें!",1,['bills'],['negative'],negative
+380,"Wait staff आपके business के लिए unappreciative है, लेकिन UWS इसका best pie है!",2,"['Wait staff', 'pie']","['negative', 'positive']",negative
+2468,और मुझे service के terms में masses से agree करना होगा - delivery उनके Achilles' heel पर है।,2,"['service', 'delivery']","['negative', 'negative']",negative
+2669,कुल मिलाकर money के लिए worth नहीं था।,1,['money'],['negative'],negative
+732,Hostess offensive होने के कारण rude हो गयी है।,1,['Hostess'],['negative'],negative
+2181,आपको service बहुत increase करना है,1,['service'],['negative'],negative
+2241,Average से थोड़े अधिक के wines $70 से start होते हैं केवल एक selection के साथ $30 पर listed होते हैं।,1,['wines'],['negative'],negative
+1329,Rice poor quality का था और इतना badly cooked था कि वह hard हो गया था।,3,"['Rice', 'quality', 'cooked']","['negative', 'negative', 'negative']",negative
+1763,मेरा chow fun and chow see वास्तव में bland और oily था।,1,['chow fun and chow see'],['negative'],negative
+2006,Tracks की ओर से आने वाली wind से mezzanine वाली बहती थोड़ी breez.,1,['mezzanine'],['negative'],negative
+1367,"मेरे पास cod with paella था (spicy और बहुत filling, मैं एक बड़ा eater हूं और केवल half खा सकता हूं) जबकि मेरे boyfriend के पास classic fish and chips थे (फिर से, एक बड़ी serving - कम से कम  5 pieces of fish और a basketful of fries की).",5,"['cod with paella', 'fish and chips', 'serving', 'fish', 'fries']","['negative', 'negative', 'negative', 'neutral', 'neutral']",negative
+2320,"Thali छोटी, thoroughly unremarkable और $14.95 की थी।",1,['Thali'],['negative'],negative
+2301,"मैं East Village के Holy Basil का longtime fan रहा हूँ, और जबकि मैं यह मानता हूँ कि उनकी food की quality थोड़ी सी slip हो गयी है, जो मुझे disloyal होने पर संकोच कराता है।",2,"['food', 'quality']","['negative', 'negative']",negative
+1550,जबकि Singapore Mai Fun में curry flavor नहीं था।,2,"['Singapore Mai Fun', 'curry flavor']","['negative', 'negative']",negative
+174,The soup for the udon was soy sauce and water.,3,"['soup for the udon', 'soy sauce', 'water']","['negative', 'neutral', 'neutral']",negative
+955,"Terrible, terrible management - बंद होना ही deserve करता है।",1,['management'],['negative'],negative
+2699,Steak बहुत fatty और sauce बहुत overpowering और बहुत tasty नहीं था।,2,"['Steak', 'sauce']","['negative', 'negative']",negative
+1300,वे over cooked होकर बाहर आए और cheese लगभग non-existant था।,1,['cheese'],['negative'],negative
+1669,"हम लगातार अपना conversation नहीं कर पा रहे थे क्योंकि हम waitress और servants द्वारा हमें routinely order देने के लिए interrupt कर रहे थे और हमें hint कर रहे थे कि हम बहुत अधिक time ले रहे हैं - amazing, हम बस बैठ गए।",2,"['waitress', 'servants']","['negative', 'negative']",negative
+1791,"हालांकि अंदर बैठने के लिए expect न करें, केवल कुछ tables हैं और वे always full रहते हैं।",1,['tables'],['negative'],negative
+304,"Immediately paid करने के बाद, waiter ने money लिया और कहा, okay, you guys यहाँ से बाहर हो जाओ।",1,['waiter'],['negative'],negative
+659,Food से प्रभावित नहीं।,1,['Food'],['negative'],negative
+1370,आपको calamari से pass करना चाहिए।,1,['calamari'],['negative'],negative
+1436,"Waiters drinks को पूरी तरह से भूल जाते हैं, food portions बहुत छोटे होते हैं, two people को एक entree share करने में problem होती है।",4,"['Waiters', 'food portions', 'drinks', 'entree']","['negative', 'negative', 'neutral', 'negative']",negative
+47,Drinks के priced का बढ़ना।,2,"['Drinks', 'priced']","['negative', 'negative']",negative
+2656,"जबकि room विशेषकर comfortable नहीं है, एक बार जब आप बैठ जाते हैं तो आप सब कुछ भूल जाते हैं सिवाय इसके कि आपकी plate में क्या बचा है।",2,"['room', 'plate']","['negative', 'positive']",negative
+2125,"Night की highlight मेरी तरफ से fries के लिये mayonaisse थी जिसे मैंने एक food runners से receive किया था, जो अच्छा नहीं लग रहा है और bill लगभग $100 का है।",4,"['mayonaisse', 'food runners', 'bill', 'fries']","['negative', 'neutral', 'negative', 'negative']",negative
+1087,"कुछ tips: turnip cake को छोड़कर roast pork buns, और egg custards.",3,"['turnip cake', 'roast pork buns', 'egg custards']","['negative', 'negative', 'negative']",negative
+1025,मैं lunch specials को recommend नहीं करता हूं क्योंकि यह other regular chinese restaurant के समान है।,1,['lunch specials'],['negative'],negative
+1248,यह bank को break नहीं करेगा लेकिन मैं भी food के लिए back नहीं आऊंगा।,1,['food'],['negative'],negative
+63,यहाँ भी नकली fish tanks का...,1,['fish tanks'],['negative'],negative
+1594,"यह nice और fresh था, लेकिन मैं इसे authentic thai होने के नाते high scores नहीं दे सकता।",1,['thai'],['negative'],negative
+616,मेरे सभी co-workers आश्चर्यचकित थे कि dish कितना small था।,1,['dish'],['negative'],negative
+427,"बेशक इस atmosphere में lacking है, लेकिन 24 hour के bagel place से आप और क्या expect करते हैं?",2,"['atmosphere', 'bagel']","['negative', 'neutral']",negative
+1771,"कभी मुझे bad food और bad service मिलती है, कभी मुझे good food और bad service मिलती है।",4,"['food', 'service', 'service', 'good']","['negative', 'negative', 'negative', 'positive']",negative
+1955,"इसके अलावा, sandwiches ($ 7 के आस-पास) chips या side जैसी किसी चीज के साथ नहीं आया।",3,"['sandwiches', 'chips', 'side']","['negative', 'neutral', 'neutral']",negative
+1197,"सब के बाद, उन्होने small tip को लेकर मुझसे complain किया।",1,['tip'],['negative'],negative
+2852,"Go Go Hamburgers मत खाइये,  भले reviews चाहे जो भी कहे।",1,['Go Go Hamburgers'],['negative'],negative
+2875,भयानक food और भयानक service.,2,"['food', 'service']","['negative', 'negative']",negative
+2194,अगर मैं एक crappy scene और annoying customers से deal करना चाहूँ तो मैं Manhattan जाऊंगा।,2,"['scene', 'customers']","['negative', 'negative']",negative
+2464,मैं तब तक वापस नहीं जाऊंगा जब तक कि कोई और bill को foot ना कर दे।,1,['bill'],['negative'],negative
+1458,"मैं नहीं जानता कि वे क्या सोचते हैं कि वे कौन हैं, लेकिन उनके residents of the neighborhood के लिए कोई respect नहीं है क्योंकि उन्होंने अपने cabaret को अगले door के लिए खोल दिया और summer के दौरान हर weekend morning 3 बजे तक loud music का blast हुआ।",1,['music'],['negative'],negative
+1336,यहाँ बहुत limited seating है और peak time पर food पाने के लिए substantial wait किए जा सकते हैं।,3,"['seating', 'food', 'wait']","['negative', 'neutral', 'negative']",negative
+469,यहाँ तबतक न खाएं जबतक thai food के लिए भूख से ना मर रहे हों और next door पर काम करते हों।,1,['thai food'],['negative'],negative
+2862,"मेरे call करने के 20 minutes बाद food आया, cold और soggy था।",1,['food'],['negative'],negative
+1164,"यह सुनकर बहुत excited हूँ कि short-term में Chef Jason Narone आगे बढ़ गए हैं, वह truly में उनके Sterling track record के एक निचले बिंदु पर थे।",1,['Chef'],['negative'],negative
+1423,"Portions अब बहुत छोटे हैं, sauces  overly-ambitious हैं, usually पर inedible होते हैं जबकि service अभी भी अच्छी है, restaurant, इसकी popularity के कारण frantic लगता है।",3,"['Portions', 'sauces', 'service']","['negative', 'negative', 'positive']",negative
+1013,"सबसे पहले, यह place romantic नहीं है जैसा कि citysearch's editorial review द्वारा दावा किया गया था।",1,['place'],['negative'],negative
+16,"Service थोड़ी slow है, लेकिन Napoli में बढ़ते हुए मेरे harkens आ जाते हैं, Italy जहां things जाती नहीं और जब आप dinner के लिए बैठते हैं तो table पूरी night आपकी होती है।",3,"['Service', 'dinner', 'table']","['negative', 'neutral', 'positive']",negative
+480,"Seating था यदि वे restaurant में अधिकतम लोगों को बुलाने की कोशिश कर रहे थे, अगर आप यहां dine करते हैं तो अपने neighbor के साथ nice रहें।",1,['Seating'],['negative'],negative
+357,लेकिन pizza expensive होने लगा है।,1,['pizza'],['negative'],negative
+2635,"इसके अलावा, rice में कोई seasoning नहीं था, इसलिए sushi bland और disgusting था।",3,"['rice', 'sushi', 'seasoning']","['negative', 'negative', 'negative']",negative
+758,यह service खराब है,1,['service'],['negative'],negative
+2197,जब तक आप realize करते हैं कि उनके five minutes meaningless हैं और आपका wait कहीं भी two से twenty minutes हो यह frustrating हो सकता है।,1,['wait'],['negative'],negative
+514,लेकिन staff हमारे लिए बहुत horrible था।,1,['staff'],['negative'],negative
+974,"हालांकि really में, जहां से भी seasoning है?",1,['seasoning'],['negative'],negative
+2268,"गलत मत समझो मुझे Cafe Noir पसंद है, यह बस ऐसा है कि people जो वहाँ work करते हैं evil और incompetent हैं।",1,['people'],['negative'],negative
+1858,Miso soup में flavor की कमी थी और fish unfortunately पहले की तरह prepared नहीं था।,3,"['Miso soup', 'fish', 'flavor']","['negative', 'negative', 'negative']",negative
+524,"उनके पास mayonnaise नहीं थी, वे toast देना भूल गए, कुछ बचे हुए ingredients (जैसे omelet में cheese) भी डालना भूल गए, और bacon इतना अधिक पका था कि आपके छूते ही वह plate में crumbled हो गया।",7,"['toast', 'mayonnaiiiiise', 'bacon', 'cheese', 'ingredients', 'plate', 'omelet']","['negative', 'negative', 'negative', 'neutral', 'negative', 'neutral', 'neutral']",negative
+2470,"300$ का bill थोड़ा steep था, लेकिन experiance शानदार था।",1,['bill'],['negative'],negative
+355,"Drinks को रखा गया, उसने ऊपर रखने का act किया।",1,['Drinks'],['negative'],negative
+124,Bruscetta एक बहुत बड़ा soggy है लेकिन अच्छे mix of greens (न कि iceberg) के साथ fresh salads और सभी dishes लगातार serve किए जा रहे थे।,6,"['Bruscetta', 'salads', 'dishes', 'mix of greens', 'iceberg', 'serve']","['negative', 'positive', 'positive', 'positive', 'neutral', 'positive']",negative
+179,मेरे पास brunch के लिए eggs benedict था जो मेरे पूरे life में सबसे worst था मैंने hollondaise sauce को पूरी तरह से हटाने की कोशिश किया जो इतना fail हुआ था।,3,"['eggs benedict', 'hollondaise sauce', 'brunch']","['negative', 'negative', 'neutral']",negative
+984,"Dinner ठीक था, मुझे फिर से कुछ नहीं करना था।",1,['Dinner'],['negative'],negative
+754,Good luck getting a table.,1,['getting a table'],['negative'],negative
+2708,Staff sushi को dinner के लिए order करने और फिर उसे bar में खाने के लिए रखने में busy थे यहाँ तक कि मुझे मेरा check भी लाने के लिए।,5,"['Staff', 'sushi', 'check', 'dinner', 'bar']","['negative', 'neutral', 'neutral', 'neutral', 'neutral']",negative
+1416,Pizza cold deliver किया गया था और cheese पूरी तरह से melt भी नहीं हुआ था!,2,"['Pizza', 'cheese']","['negative', 'negative']",negative
+1283,"लेकिन bacon को कभी देर रात order ना करें (या तो platter in sandwiches में, उस matter के लिए किसी take out place को from न करें) जैसा कि यह morning frying में मुश्किल से bacos कि तरह बदलता है, मेरे molars को hurt करता है।",5,"['bacon', 'platter', 'in sandwiches', 'frying', 'bacos']","['negative', 'negative', 'negative', 'negative', 'negative']",negative
+353,"केवल complaint यह होगी कि12$ - 15$ प्रति meal की average cost पर, मुझे एक seat खोजने के लिए worry होने की ज़रूरत नहीं होगी!",3,"['cost', 'meal', 'seat']","['negative', 'neutral', 'negative']",negative
+2881,बड़ा COMPLAINT है: कोई TOASTING AVAILABLE नहीं है।,1,['TOASTING'],['negative'],negative
+1899,Food अपने menu description जैसा बिलकुल नहीं है।,2,"['Food', 'menu description']","['negative', 'negative']",negative
+2534,"Menu small हो सकता है, लेकिन इसमें सब कुछ delicious है।",1,['Menu'],['negative'],negative
+2696,"जबकि botle of wine के एक relatively inexpensive के साथ, यदि आप $70.00 को inexpensive मानते हो, तो roof से लगता cost average fare कि cost से अधिक है।",2,"['cost', 'botle of wine']","['negative', 'conflict']",negative
+1854,"Food average से कम था, service pathetic थी, कोई भी ambience नहीं था।",3,"['Food', 'service', 'ambience']","['negative', 'negative', 'negative']",negative
+2389,"हम, वहाँ four थे, जो noon में आए थे - place empty था - और staff ने ऐसे act किया कि हम उनपर impose कर रहे हैं और वे बहुत rude थे।",1,['staff'],['negative'],negative
+1653,"सभी waitstaff बहुत busy हैं, यह outstanding service नहीं है, लेकिन मुझे कभी भी इतना rudely deal नहीं किया गया है।",2,"['waitstaff', 'service']","['negative', 'conflict']",negative
+784,"हालांकि, सबसे अधिक annoying thing यह है कि servers revenue को trained करने के लिए होते हैं।",1,['servers'],['negative'],negative
+995,Bistro prices पर diner food एक bummer है....,2,"['food', 'prices']","['negative', 'negative']",negative
+2294,"Ambiance में भले ही Sapphire बिलकुल बहुत lacking नहीं है, और शायद किसी Indian restaurant का सबसे अच्छा decor है मैं New York City में जा चुका हूँ, food ऐसा नहीं है जिसकी मैंने आशा की है।",3,"['food', 'Ambiance', 'decor']","['negative', 'positive', 'positive']",negative
+2592,"Wine list शानदार नहीं है, और desserts को Bruno's के street के नीचे से ship किया जाता है, जो उतना good नहीं है जितना हुआ करता था ",2,"['Wine list', 'desserts']","['negative', 'negative']",negative
+1551,एकमात्र problem यह है कि manager बिलकुल एक incompetent है।,1,['manager'],['negative'],negative
+1574,"Menu choices similar हैं, लेकिन दिखते हुए taste की तुलना में flavor की कमी अधिक थी।",3,"['taste', 'Menu choices', 'flavor']","['negative', 'neutral', 'negative']",negative
+450,बिलकुल भी price के लिए worth नहीं।,1,['price'],['negative'],negative
+2554,Counter service खराब है।,1,['Counter service'],['negative'],negative
+1518,"फिर भी दूर रहें, हमारे बगल की table मेरी table से बाहर निकल गई और एक और जहाँ वे हैं वहाँ रहते हुए भी serves करते हैं ...",1,['serves'],['negative'],negative
+1764,"हालाँकि हमने भी notice किया, कि कुछ tables naan की जगह pita जैसे दिखते थे।",2,"['pita', 'naan']","['negative', 'negative']",negative
+2564,"आप decore के लिए बहुत अधिक pay करेंगे, लेकिन food NY में अन्य Chinese और Asian fusion places की तुलना में better या worse नहीं है।",2,"['decore', 'food']","['negative', 'neutral']",negative
+1727,वे rice के लिए $ 6.00 charge करते हैं।,1,['rice'],['negative'],negative
+2019,"जबकि, अपना favorite roll मांगने का कोई plan ना करें, यदि यह menu में नहीं है, तो आप नहीं खा सकते हैं।",2,"['roll', 'menu']","['negative', 'negative']",negative
+2938,Honestly worst sushi था मेरे husband और मैंने इसे पूरे जीवन खाया है।,1,['sushi'],['negative'],negative
+1288,जबकि उनके पास menu में एक section है जिसे American Chinese food कहा जाता है!,2,"['menu', 'American Chinese food']","['negative', 'negative']",negative
+1750,लेकिन वह icing on the cake नहीं था: एक tiramisu जो resembled नहीं था जैसा दिखता था।,2,"['icing on the cake', 'tiramisu']","['negative', 'negative']",negative
+2160,Fish fresh नहीं था और rice पुराना और बासी था।,2,"['Fish', 'rice']","['negative', 'negative']",negative
+1803,"The decor is really blah, and not at all hip or happening.",1,['decor'],['negative'],negative
+2522,यह इतना bad था कि मैंने food के लिए pay करने से refused कर दिया।,1,['food'],['negative'],negative
+842,"आप menu से order करती है, इसलिए आप full experience को missed की हुई feel करती है।",1,['menu'],['negative'],negative
+182,"Dim sum ठीक है लेकिन वह fresh taste नहीं है, और little dishes भाप से गर्म नहीं दिखते हैं क्योंकि उन्हें (यहां Chinese की lack भी नोट करनी चाहिए)।",2,"['Dim sum', 'little dishes']","['negative', 'negative']",negative
+67,"Soft bread में सबकुछ, soggy salad, और 50 minutes wait time, एक incredibly rude service के साथ औसत से कम food देने के लिए।",5,"['bread', 'salad', 'service', 'food', 'wait']","['negative', 'negative', 'negative', 'negative', 'negative']",negative
+2095,"जबकि, जाते हुए जिस place को हमने देखा, two people menu को देख रहे थे, और मैं उनकी ये कहकर help नहीं कर पाया कि food horrible था।",2,"['food', 'menu']","['negative', 'neutral']",negative
+1302,"अगर आपके पास बड़ा group है तो svc इस time थोड़ा rude हो सकता है, लेकिन कुल मिलाकर restaurant must है!",1,['svc'],['negative'],negative
+2097,"यदि आप Americanized Chinese food के साथ usual watery, generic white sauce चाहते हैं, तो यही वो place है।",2,"['white sauce', 'Chinese food']","['negative', 'neutral']",negative
+2627,"Tables crammed के काफी close है, menu किसी Italian restaurant जैसा typical है, और wine list simply overpriced है।",3,"['Tables', 'menu', 'wine list']","['negative', 'neutral', 'negative']",negative
+665,"दो individuals के भद्दी service के अलावा, यह great है।",1,['service'],['negative'],negative
+1257,"मेरे वहाँ पहली बार, मैं Crab Croquette apt को like नहीं करता था जोकि मैंने first time order किया और उन्होने बिना किसी big deal के मेरे लिए change कर दिया।",1,['Crab Croquette apt'],['negative'],negative
+1908,Food एकदम से horrible था!,1,['Food'],['negative'],negative
+2427,Food boring और महंगा था।,1,['Food'],['negative'],negative
+2048,"Staff उतना friendliest या उतना competent नहीं, और मैं service के लिए stickler हूँ, लेकिन इस place को लेकर सबकुछ इसे बनाता है।",2,"['Staff', 'service']","['negative', 'negative']",negative
+2901,हम बैठे और waitstaff द्वारा ignored किए गए।,1,['waitstaff'],['negative'],negative
+2173,उन prices और बनाए गए atmosphere के लिए जो आपसे अधिक expect करते हैं और अधिक पाना चाहते हैं।,2,"['prices', 'atmosphere']","['negative', 'negative']",negative
+1630,कुछ servers आपको ऐसा feel कराते हैं कि वे आपके लिए food लाकर favor कर रहे हैं।,2,"['servers', 'food']","['negative', 'neutral']",negative
+1943,Service भी horrible थी और ambience उतना great नहीं है।,2,"['Service', 'ambience']","['negative', 'negative']",negative
+1184,यहाँ थोड़ा शोर-शराबा है और tables आस-पास ही हैं लेकिन फिर भी यह place अच्छे dinner को enjoy करने के लिए सुंदर है।,3,"['tables', 'dinner', 'place']","['negative', 'positive', 'positive']",negative
+933,Hostess और waitress अविश्वसनीय रूप से rude थे और और हमें rush out करने के लिए वे सब कुछ कर सकते थे।,2,"['Hostess', 'waitress']","['negative', 'negative']",negative
+1371,"Porcini mushroom pasta special बेस्वाद था, वैसा ही seafood tagliatelle था।",2,"['Porcini mushroom pasta special', 'seafood tagliatelle']","['negative', 'negative']",negative
+1818,मुझे इस food के लिए कहना चाहिए कि यह little pricey है क्योंकि यह उतना spectacular नहीं दिखता था।,1,['food'],['negative'],negative
+1607,"Disappointing food, lousy service.",2,"['food', 'service']","['negative', 'negative']",negative
+701,"सबसे पहले, waitress पूरी तरह से unattentive थी 2 times हमने उसे देखा (जो कि 6 tables वाले restaurant में odd है) और हमने गलत order पाया।",2,"['waitress', 'tables']","['negative', 'neutral']",negative
+741,बल्कि उस price के लिए sky या water club में terrace तक की कोशिश की होंगी।,1,['price'],['negative'],negative
+1554,मैं अभी भी mad हूँ कि मुझे lousy food के लिए pay करना पड़ा।,1,['food'],['negative'],negative
+2430,Service ठीक है लेकिन better हो सकता थी।,1,['Service'],['negative'],negative
+2873,मैं on average three times वापस line में वापस जाता हूं जब तक मैं और walk नहीं कर सकता।,1,['line'],['negative'],negative
+829,"Dinner के लिए review के आधार पर, यह एक ऐसा place है जिसके लिए मैं फिर से reconsider करूंगा, लेकिन definitely फिर से Dim Sum के लिए नहीं।",2,"['Dim Sum', 'Dinner']","['negative', 'positive']",negative
+2485,Decor कुछ सोचने के लिए प्रेरित करती हैं।,1,['Decor'],['negative'],negative
+633,मेरे left और right तरफ से आने वाली strong scents ने मेरी taste buds को नकारात्मक रूप से प्रभावित किया।,1,['scents'],['negative'],negative
+2208,"खैर, यह place बहुत ही Ghetto है यह funny नहीं है।",1,['place'],['negative'],negative
+895,Waiters attentive नहीं थे बजाय उनके जिनका bill उनके खाना खत्म होने से पहले ही table पर ही turned ना हो जाए।,2,"['Waiters', 'bill']","['negative', 'negative']",negative
+2183,"मुझे reader को अवश्य warn करना चाहिए कि portions sizes बहुत छोटा है (मुख्य रूप से appetizers के लिए), इसलिए अगर आप भरपेट खाने का plan करते हैं और chef's का special tasting menu order नहीं करना चाहते हैं, तो order करने और appetizer को pay के लिए तैयार रहिए (1 dish एक person के लिए क्योंकि यह portions share करने के लिए नहीं है ), एक main entree, और इस meal के end में एक cold udon है।",9,"['portions', 'appetizers', 'appetizer', 'main entree', 'cold udon', 'chef's', 'menu', 'dish', 'portions']","['negative', 'negative', 'negative', 'neutral', 'neutral', 'positive', 'positive', 'negative', 'negative']",negative
+197,"Waitress, actually में waitressing करने की तुलना में good दिखने के लिए more concerned लगती है।",1,['Waitress'],['negative'],negative
+2785,और उनके prices बहुत high हैं - वे actually सोचते हैं कि वे इस तरह के terrible food और service के लिए इस तरह के prices charg कर सकते हैं!,4,"['prices', 'prices', 'food', 'service']","['negative', 'negative', 'negative', 'negative']",negative
+347,ये ऐसे smell करता है जैसे यह पुराने canned vegetables की तरह spinach mushroom calzone के साथ stuff किया हुआ हो।,2,"['spinach mushroom calzone', 'canned vegetables']","['negative', 'negative']",negative
+448,"इस place की potential अच्छी है, लेकिन इससे पहले एक significant amount के work की आवश्यकता है जिससे कि हम indian food पर खर्च किए हुए money को, किसी और place पर मिलने वाले food के money से justify कर सकें। ",2,"['money', 'indian food']","['negative', 'neutral']",negative
+1704,और मैं snacking कहता हूं क्योंकि यह really में एक proper dinner होने के लिए set नहीं है।,2,"['dinner', 'snacking']","['negative', 'neutral']",negative
+1308,मैं अक्सर night में वहां जाता हूं जब मैं work से off होता हूँ इसलिए मुझे crowds और lines से deal नहीं करनी पड़ती है।,2,"['lines', 'crowds']","['negative', 'negative']",negative
+1098,"उनके calzones भयानक, बुरे, vomit-inducing, YUCK हैं।",1,['calzones'],['negative'],negative
+75,केवल disappointment थी coat check girls को यह लगता नहीं था कि relatively non-busy night में एक customer (coat check girls के साथ) क्या कर रहा है।,2,"['coat check girls', 'coat check girls']","['negative', 'negative']",negative
+173,"Food just भयानक था, वास्तव में ATROCIOUS।",1,['Food'],['negative'],negative
+147,लेकिन thai definitely महान नहीं है - bland और indistinguished.,1,['thai'],['negative'],negative
+1206,"थोड़ा limited menu के बावजूद, तैयार की गई हर thing perfection के करीब, ultra fresh और food art का work करती हैं।",2,"['menu', 'food art']","['negative', 'positive']",negative
+973,"(2 glasses of champagne के लिए $200, बहुत महंगी bottle of wine नहीं और 2 after dinner drinks)।",3,"['glasses of champagne', 'bottle of wine', 'after dinner drinks']","['negative', 'negative', 'negative']",negative
+3014,कुल मिलाकर एक subpar pizza के साथ deal करने के बाद Kensington neighborhood - मुझे little toninos मिले है।,1,['pizza'],['negative'],negative
+2108,"इस last point का केवल एक possible drawback है कि इसके posting के date से, अलग से जोड़े गए menu items केवल Chinese में लिखे होंगे।",1,['menu items'],['negative'],negative
+1548,Pizza थोड़ा सा soggy था।,1,['Pizza'],['negative'],negative
+511,"जैसे ही मेरे father ने check से अपनी pen उठाई, एक chef हमें out करने के लिए आ गया।",2,"['chef', 'check']","['negative', 'neutral']",negative
+258,वे specials या fresh ingredients पर emphasis देते नज़र नहीं आते जो मेरे good thai के लिए ज़रूरी है।,3,"['specials', 'ingredients', 'thai']","['negative', 'negative', 'neutral']",negative
+1674,"Chicken dish के बारे में complain करने पर, manager हमें यह बताने के लिए आया, कि पहले कभी किसी ने complain नहीं की, और हमें यह नहीं पता था कि dish का taste कैसा होना चाहिए।",3,"['Chicken dish', 'manager', 'dish']","['negative', 'negative', 'neutral']",negative
+2309,"आप Mizu excellent service के लिए नहीं जाते हैं, आप food की अधिक मात्रा के लिए जाते हैं, एक amiable atmosphere, और hole-in-the-wall place की feeling के लिए जाते हैं। ",3,"['service', 'food', 'atmosphere']","['negative', 'positive', 'positive']",negative
+2269,Hanger steak rubber की तरह था और नहीं बताने के लिए कि tuna flavorless था यह बस केवल पिघलाया गया था।,2,"['Hanger steak', 'tuna']","['negative', 'negative']",negative
+1253,Fountain drinks के साथ कोई refills नहीं।,1,['Fountain drinks'],['negative'],negative
+1895,मैंने dinner में chicken tikka-masala और कुछ garlic naan खाया।,3,"['chicken tikka-masala', 'garlic naan', 'dinner']","['neutral', 'neutral', 'neutral']",neutral
+2997,यदि आप food पसंद करते हैं और आपको इसकी value किसी Chinatown restaurants जैसी लगती है तो यह place आपके लिए नहीं है।,2,"['food', 'value']","['neutral', 'neutral']",neutral
+2416,एक English speaking staff से।,1,['staff'],['neutral'],neutral
+2145,"फिर भी, एक बार try करें, कि यदि तुम food को चाहते रहोगे, यह तुम्हारा सबसे best dining experiences कहा जा सकेगा।",2,"['food', 'dining experiences']","['neutral', 'positive']",neutral
+653,VT वही है जहां baby pizzas के grow होने की hope होती है।,1,['baby pizzas'],['neutral'],neutral
+72,"Food बस ठीक था, मैं कभी वापस नहीं जाऊंगा।",1,['Food'],['neutral'],neutral
+1272,जैसा कि 2003 के summer में ऐसा लगता है कि management change हो गया है और great big door के glass front को बदल दिया गया है जो खुद को dark romantic getup से replace करता है।,3,"['management', 'door', 'glass front']","['neutral', 'positive', 'negative']",neutral
+1595,"Club soda, filled with ice, no lime मिला।",1,"['Club soda, filled with ice, no lime']",['neutral'],neutral
+1697,एक बार dinner के लिए और एक बार brunch के लिए।,2,"['dinner', 'brunch']","['neutral', 'neutral']",neutral
+348,"Birthday celebrate करने के लिए, हम तीनों केवल great food को anticipate करते हुए बढ़ गए।",1,['food'],['neutral'],neutral
+44,"Food decent और अच्छा है, और ambience, अच्छी तरह से, opinion की बात है, कुछ इसे एक sweet thing मान सकते हैं, मैंने सोचा कि यह सिर्फ annoying था।",2,"['Food', 'ambience']","['neutral', 'conflict']",neutral
+1246,"Meat dishes अब selections को बढ़ावा देते हैं, हालांकि अभी भी बड़ी संख्या में vegetarian-friendly choices हैं।",2,"['Meat dishes', 'vegetarian-friendly choices']","['neutral', 'positive']",neutral
+491,"हमलोग NJ वापस जाने के way में थे, और जब से मैं NY में हूं, हमने figured किया कि क्यों न कुछ food grab किया जाए?",1,['food'],['neutral'],neutral
+1862,"$ 2 filets के लिए $ 160, 2 sides, एक appetizer और drinks.",4,"['filets', 'sides', 'appetizer', 'drinks']","['neutral', 'neutral', 'neutral', 'neutral']",neutral
+2444,जब मैं कुछ देर के लिए upstate रहता था तो मैं bagels freeze buy करता था और वे अब भी किसी और से better होंगे।,1,['bagels'],['neutral'],neutral
+492,Service और food ऐसा है कि कोई भी उतने money को spend करने पर expect करता है।,2,"['Service', 'food']","['neutral', 'neutral']",neutral
+1333,"जब मेरी dessert आई, तो उसमें एक candle थी - इसलिए नहीं कि किसी ने इसके लिए कहा - लेकिन क्योंकि waiter ने मुझे अपना birthday card और gift खोलते हुए देखा होगा, और कहा कि वह जानता था कि यह some sort of एक special occassion था।",2,"['dessert', 'waiter']","['neutral', 'positive']",neutral
+1089,"अरे हाँ, और वे phone पर झूठ बोलते हैं, seating in the garden claim करते हुए, तब तो बिलकुल seats available नहीं हैं।",2,"['seating in the garden', 'seats']","['neutral', 'neutral']",neutral
+1627,मैंने note किया कि इस bill पर crossed off किया गया था।,1,['bill'],['neutral'],neutral
+1112,मेरे पीछे के table पर मैं diner के साथ back-to-back था और wait staff को हमारे सिर पर trays को hoist करना था क्योंकि वे हमें बार-बार squeezed past करते थे।,3,"['diner', 'wait staff', 'table']","['neutral', 'negative', 'negative']",neutral
+1785,"स्वयं food के terms में ही -- special कुछ नहीं, हमने खुद को कई appetizers तक limited कर रखा है।",2,"['food', 'appetizers']","['neutral', 'neutral']",neutral
+2771,मैंने पूरे sabway ride के दौरान सोचते हुए अपना finger crossed रखा कि एक table होगा जहां मैं खुद से बैठूँगा और वहाँ rice congee soup people के साथ share नहीं करना होगा।,2,"['table', 'rice congee soup']","['neutral', 'neutral']",neutral
+2580,Food और service ठीक था।,2,"['Food', 'service']","['neutral', 'neutral']",neutral
+266,"ना ही Food, ना ही ambiance, ना ही service, मैं पिछली reviews से सहमत हूं कि आप wait and wait करते हैं, wait staff बहुत rude और जब आप अंदर आते हैं तो वे आपको बाहर भेजने की सोचते हैं।",4,"['Food', 'ambiance', 'service', 'wait staff']","['neutral', 'neutral', 'neutral', 'negative']",neutral
+1489,यह आपका corner नहीं है Chinese food ले जाइए।,1,['Chinese food'],['neutral'],neutral
+2610,Tip वाले दो people के लिए $25 bucks से कम था।,1,['Tip'],['neutral'],neutral
+2639,Owner को इस website पर खुद को credit देने के लिए जरुर आना चाहिए।,1,['Owner'],['neutral'],neutral
+820,मैं यहाँ 3 times lunch के लिए आया हूँ और यह city में मेरा एक favorite है।,1,['lunch'],['neutral'],neutral
+1203,वहाँ अपने wife के साथ गया और table के लिए wait करना पड़ा जबकि आप देख सकते थे कि वहाँ कई empty थे जिनपर reservation sign नहीं थे।,2,"['reservation sign', 'table']","['neutral', 'negative']",neutral
+1187,Nicky the Nose at the bar is a treat.,1,['bar'],['neutral'],neutral
+1431,"Atmosphere सबसे greatest नहीं है, लेकिन मुझे लगता है कि वे ऐसे ही prices को कम रखते हैं।",2,"['Atmosphere', 'prices']","['neutral', 'positive']",neutral
+2976,"यह मेरे friend के लिए little too spicy हो सकता था, जिसे आप अधिक rice खाते हुए और hand में water रखे counteract कर सकते हैं।",2,"['rice', 'water']","['neutral', 'neutral']",neutral
+1692,यह food asian-air fusion है.,1,['food'],['neutral'],neutral
+470,"और यह भी sure करो कि तुम music को piped in करने के लिए attention pay करो, यह कितना weird selection है।",1,['music'],['neutral'],neutral
+145,हम prix fixe में Monday को जाते रहे हैं और Blue Ribbon में food के साथ हमारा experience comparable रहा है।,2,"['food', 'prix fixe']","['neutral', 'neutral']",neutral
+2769,मैं recommend करूंगा कि आपका name down करें और फिर local bar में पहले एक drink लेकर wait time के कारण सोचा।,3,"['drink', 'bar', 'wait time']","['neutral', 'neutral', 'negative']",neutral
+839,मैं केवल एक चीज उनका moderately enjoy किया था जो Grilled Chicken special with Edamame Puree.,1,['Grilled Chicken special with Edamame Puree'],['neutral'],neutral
+982,Location और ambience ठीक है लेकिन food वो है जो इसे अच्छा बनाता है।,3,"['Location', 'ambience', 'food']","['neutral', 'neutral', 'positive']",neutral
+198,मेरे fiance's का 30वें surprise birthday dinner यहाँ खुशनुमा नहीं हो सका।,1,['dinner'],['neutral'],neutral
+611,"मैंने जो cuisine इकट्ठा किया है, वो authentic Taiwanese है हालांकि मैं Taipei का आदि हो चुका हूं, जो इससे different है।",1,['cuisine'],['neutral'],neutral
+1032,"Food ok है, लेकिन एक अच्छे neighborhood restaurant में आपको जो मिलता है, उससे better कुछ नहीं है।",1,['Food'],['neutral'],neutral
+851,मैं अपने boyfriend के साथ Friday night को reservation के लिए 8:00 बजे Del Frisco's गयी।,1,['reservation'],['neutral'],neutral
+3000,Selection बार-बार change होता है लेकिन basic dishes हमेशा available रहता हैं।,2,"['Selection', 'basic dishes']","['neutral', 'neutral']",neutral
+1775,हमें aprox bar में wait करना पड़ा।,1,['bar'],['neutral'],neutral
+54,"Food best से mediocre था, लेकिन यह horrible service थी जिसने मुझे कभी वापस ना जाने की vow दिलवायी।",2,"['Food', 'service']","['neutral', 'negative']",neutral
+1470,"उम्मीद है कि next time, मैं dessert के लिए room बचाऊंगा।",1,['dessert'],['neutral'],neutral
+2969,"मैंने chicken with garlic sauce, chicken with black bean sauce, और hunan chicken के साथ खाया था।",3,"['chicken with garlic sauce', 'chicken with black bean sauce', 'hunan chicken']","['neutral', 'neutral', 'neutral']",neutral
+853,यहाँ dinner करके स्वयं को एक favor करें और अगर आप मुझसे agree नहीं है,1,['dinner'],['neutral'],neutral
+2620,मैंने बहुत times thai खाया है और मैं cuisine से बहुत familiar हूँ।,1,['cuisine'],['neutral'],neutral
+2437,मेरे husband और मैं वहाँ कई दफा कुछ times के लिए गए और हर time हम sushi bar (chef Yoshi) में बैठे और सभी ala carte का order दिया।,3,"['sushi bar', 'chef', 'ala carte']","['neutral', 'neutral', 'neutral']",neutral
+2386,"Dimsum के साथ, ना कि super overprised noodles है।",2,"['noodles', 'Dimsum']","['neutral', 'positive']",neutral
+1147,"अगर ऐसा होता है, तो just real naan मांगें।",1,['naan'],['neutral'],neutral
+712,मैं वहाँ late afternoon में अपनी date के साथ bite size food और refleshment के लिए गया।,2,"['food', 'refleshment']","['neutral', 'neutral']",neutral
+925,"Dim Sum तो ठीक-ठाक था, लेकिन शानदार नहीं।",1,['Dim Sum'],['neutral'],neutral
+2369,Money कमाने का एक great तरीका है कि Costco से एक case of snapple buy करें और उसके ठीक बाहर केवल $2.50 का sell कर दें।,1,['case of snapple'],['neutral'],neutral
+2924,"Appetizers के लिए, मैं इस shrimp fritters और dumplings को recommend करता हूँ।",3,"['Appetizers', 'shrimp fritters', 'dumplings']","['neutral', 'positive', 'positive']",neutral
+2543,हम reservation के लिए थोड़ा late से गए लेकिन हमारा table तुरंत मिलने में हमे कोई problem नहीं हुई।,2,"['reservation', 'table']","['neutral', 'positive']",neutral
+3028,हमने  Haru's Sake bar में बाहर खाया क्योंकि Haru's restaurant का अगला door overflow कर रहा था।,1,['bar'],['neutral'],neutral
+2975,हम line में थे और जबकि line में bannan fritter served किया गया था।,2,"['bannan fritter', 'served']","['neutral', 'neutral']",neutral
+2982,"मैं आप लोगों के बारे में नहीं जानता हूँ, लेकिन जब मैं कहीं खाने जाता हूँ मैं food के लिए जाता हूँ ना कि atmosphere के लिए।",2,"['food', 'atmosphere']","['neutral', 'neutral']",neutral
+1931,"हमने केवल desserts और drinks का order दिया, लेकिन कोई भी refills offer नहीं की गयी।",2,"['desserts', 'drinks']","['neutral', 'neutral']",neutral
+1966,हमें yasuda के सामने sushi bar में बैठाया गया।,1,['sushi bar'],['neutral'],neutral
+1356,मैं इसे 'italian dinner' कहूंगा।,1,['dinner'],['neutral'],neutral
+2094,"Slurry crap में curry नहीं है, और mill food के लिए regular run करना पड़ता है।",2,"['curry', 'food']","['neutral', 'neutral']",neutral
+838,मैंने reservation पाने की recommend की थी जबकि हमने बिना reservation के लोगों को बैठे देखा।,1,['reservation'],['neutral'],neutral
+1215,"NY में grow करते हुए, मैंने अपने share का bagels खा लिया है।",1,['bagels'],['neutral'],neutral
+649,कुछ baby pizzas अपना wish पाते हैं।,1,['baby pizzas'],['neutral'],neutral
+1047,"हम saturday को couple of weeks पहले lunch के लिए यहां गए थे, और मैं food से पूरी तरह impress था।",2,"['lunch', 'food']","['neutral', 'positive']",neutral
+46,"Shockingly यहां एक group dinner देना आसान है: simple contract, केवल हम सभी 20 के group के लिए 2nd fl mezz की date hold करने के लिए deposit करें।",1,['group dinner'],['neutral'],neutral
+1885,हमने NY Restaurant Week के दौरान Orsay का दौरा किया और उनके $ 35 menu को आज़माया।,1,['menu'],['neutral'],neutral
+307,Weekday lunch के लिए late से गया।,1,['lunch'],['neutral'],neutral
+192,हमें सभी को एक apology प्राप्त हुआ क्योंकि हमने अपने' show को without dinner देखना छोड़ दिया था।,1,['dinner'],['neutral'],neutral
+2988,"हम tired और cold थे जब हम restaurant में गए, फिर हम appetizers को order करने के लिए बैठे।",1,['appetizers'],['neutral'],neutral
+605,अपने chopsticks के साथ ingredients को dip करते हुए उन्हे सभी तरफ swirl करके खाएं।,2,"['ingredients', 'chopsticks']","['neutral', 'neutral']",neutral
+2573,मैं food और ambience की अधिक care करता हूँ।,2,"['food', 'ambience']","['neutral', 'neutral']",neutral
+1224,मैं अपने fondue appetizer के बाद pretty much full था।,1,['fondue appetizer'],['neutral'],neutral
+1350,Two star chefs कुछ time पहले अपना place start करने के लिए गया था।,1,['chefs'],['neutral'],neutral
+2465,"हम New Jersey में रहते हैं और जब भी हम New York City जाते हैं हम hot खाने के लिए एक bagels buy करते हैं और फिर उसे freeze करते हैं (उन्होने मुझे बताया कि यदि हम call से order मँगवाते हैं, वे उसे car से लाएँगे इसलिए मुझे parking के लिए देखने आवश्यकता नहीं होगी।)",1,['bagels'],['neutral'],neutral
+2104,"हालांकि food ऐसा है, कि कोई क्या expect करे।",1,['food'],['neutral'],neutral
+2935,Ottimo में गया और कुछ outstanding pizza (जैसा कि मैं La Pizza fresca) expect कर रहा था।,1,['pizza'],['neutral'],neutral
+2972,Dish में लगभग 6 pieces beef के हैं।,2,"['Dish', 'beef']","['neutral', 'neutral']",neutral
+2262,हमें हमेशा एक appetizers और share की sampling मिलती है।,1,['appetizers'],['neutral'],neutral
+941,मैंने chu chu curry का order दिया और मेरे friend ने pad thai chicken का order दिया।,2,"['chu chu curry', 'pad thai chicken']","['neutral', 'neutral']",neutral
+743,Okay service.,1,['service'],['neutral'],neutral
+2189,"जब family आई तो उसने उन्हें अपने palets को test करने के लिए apps दिए, और फिर उनके लिए order किया।",1,['apps'],['neutral'],neutral
+1760,हमारे यहाँ restaurant week के night dinner में girls थीं।,1,['dinner'],['neutral'],neutral
+1279,क्या chef और owner बदल गए हैं ???,2,"['chef', 'owner']","['neutral', 'neutral']",neutral
+169,"इसलिए, मैं वास्तव में कभी भी M proper नहीं गया, लेकिन मैंने कुछ times delivered करके खाया है।",1,['delivered'],['neutral'],neutral
+1924,"हालाँकि, service उतनी ही plain थी जितनी की मेरे पास sesame crusted Salmon थी।",2,"['service', 'sesame crusted Salmon']","['neutral', 'neutral']",neutral
+865,"वे tasty हैं, लेकिन मैं केवल एक meat के साथ खाने का suggestion देता हूं, क्योंकि वे average American digestive system के साथ अच्छी तरह से mesh नहीं करते हैं।",1,['meat'],['neutral'],neutral
+1225,Extra spice के लिए request करने से पहले थोड़ा CAREFUL रहिए।,1,['spice'],['neutral'],neutral
+1996,"हमने चलने के लिए पूछा (जिसमें half an hour लगा), और तब एक high traffic area में पीछे बैठ गए थे, जबकि बाँकी rooms practically empty थे।",2,"['room', 'area']","['neutral', 'negative']",neutral
+816,"लेकिन, cooking के बारे में कुछ भी stands out नहीं करता है।",1,['cooking'],['neutral'],neutral
+125,"service ठीक है,लेकिन कुछ लोगों को वह नहीं मिला what they asked for.",1,['service'],['neutral'],neutral
+79,"जब उसने finally कर दिया, वह gin and tonic नहीं बना सका--tonic नहीं पा सका।",2,"['gin and tonic', 'tonic']","['neutral', 'neutral']",neutral
+2109,"Food average है, और मैं कहना चाहूँगा कि chain restaurant Baluchi's का taste अच्छा है।",1,['Food'],['neutral'],neutral
+3034,"हमने एक bottle of sake share किया था, एक edamames का order, और उसने एक sushi plate खाया था जबकि मैंने sashimi खाया था। ",4,"['bottle of sake', 'edamames', 'sushi plate', 'sashimi']","['neutral', 'neutral', 'neutral', 'neutral']",neutral
+779,मैं recently में lunch के लिए कुछ co-workers के साथ इस restaurants में गया और एक amazing time बिताया।,1,['lunch'],['neutral'],neutral
+2406,"हमारा believe करो, हम 15 years से अधिक से sushi खा रहे हैं।",1,['sushi'],['neutral'],neutral
+390,"कुल मिलाकर restaurant हमारे दूसरे sushi favorites से अधिक expensive है लेकिन, सब कुछ delicious था।",1,['sushi'],['neutral'],neutral
+143,Bill बिना drinks के 2 lunch के लिए लगभग $25 की रही है।,3,"['Bill', 'lunch', 'drinks']","['neutral', 'neutral', 'neutral']",neutral
+1337,"यदि यह bar में बस एक quick martini (जो मैं Jeffery's का recommend करता हूँ) या एक शानदार Roast Chicken, के लिए village जाते हैं!",3,"['martini', 'bar', 'Roast Chicken']","['neutral', 'neutral', 'positive']",neutral
+2989,मैंने दोनों times pizza और caprese salad appetizer खाया है।,2,"['pizza', 'caprese salad appetizer']","['neutral', 'neutral']",neutral
+2847,"Atmosphere कुछ ज्यादा special नहीं है, लेकिन यह Tokyo में Sushi establishment की तरह feel होता है।",1,['Atmosphere'],['neutral'],neutral
+767,"Thai food की बात होने पर मैं सबसे experienced person नहीं हूं, लेकिन मेरा friend जो मुझे वहां ले गया, वह है।",1,['Thai food'],['neutral'],neutral
+2396,मैं Naples 45 में dinner के लिए twice गया हूँ।,1,['dinner'],['neutral'],neutral
+785,"अपना food प्राप्त करने के लिए जाएँ, एक bench ढूंढें, और plate of dumplings के साथ kick back करें।",2,"['food', 'plate of dumplings']","['neutral', 'positive']",neutral
+333,161 Lafayette में एक drink के साथ कुछ friends में meeting हुई और Thai Angel के साथ walk भी किया गया।,1,['drink'],['neutral'],neutral
+1888,हम तीनों बिना किसी reservations के एक week night में लगभग 5:30 बजे dinner पर गए।,2,"['dinner', 'reservations']","['neutral', 'neutral']",neutral
+1570,Price के लिए Sushi भी कुछ कम spectacular नहीं थी।,2,"['Sushi', 'Price']","['neutral', 'negative']",neutral
+2729,"Palak paneer standard था, और मैं malai kofta का fan नहीं था।",2,"['Palak paneer', 'malai kofta']","['neutral', 'neutral']",neutral
+1486,Decor minimalist और clean है - distract  करने या commend करने के लिए कुछ भी नहीं।,1,['Decor'],['neutral'],neutral
+149,कुछ drinks और appetizers लेकर friend और उसकी girlfriend के साथ double date पर गया।,2,"['drinks', 'appetizers']","['neutral', 'neutral']",neutral
+1934,"हालांकि, menu का असली kicker, beef cubes या chicken with chili and lemon grass है।",3,"['menu', 'beef cubes', 'chicken with chili and lemon grass']","['neutral', 'positive', 'positive']",neutral
+1084,"लेकिन, वे bun के लिए बहुत big थे।",1,['bun'],['neutral'],neutral
+2552,"मैं खाने के लिए कभी भी table का wait नहीं करूंगा, यह उतना great नहीं है।",1,['table'],['neutral'],neutral
+1530,और इस culinary nightmare का conclusion check हमारी table पर एक glass of water से knock करके दिया गया।,3,"['check', 'table', 'glass of water']","['neutral', 'neutral', 'neutral']",neutral
+965,मैं तीन बार spice जा चुका हूं- दो बार lunch और एक बार dinner के दौरान।,2,"['lunch', 'dinner']","['neutral', 'neutral']",neutral
+2637,Sushi average है और prices कुछ भी है लेकिन।,2,"['Sushi', 'prices']","['neutral', 'neutral']",neutral
+1523,"जब तक आप Katz' Deli में 4 pound के pastrami sandwiches नहीं खा रहे हैं तब तक आप एक अच्छे French restaurant के शानदार restaurant से वंचित हैं, या Mexican food जो capable restaurants द्वारा supply की जाती है।",2,"['pastrami sandwiches', 'Mexican food']","['neutral', 'neutral']",neutral
+3007,Restaurant बहुत छोटा है इसलिए reservations बहुत must हैं।,1,['reservations'],['neutral'],neutral
+2671,हमने एक drink के बाद छोड़ दिया।,1,['drink'],['neutral'],neutral
+1339,"बाहर एक table के लिए एक long wait था, लेकिन यह वैसे भी sun में too hot था इसलिए हमारी inside table बहुत अच्छी थी।",3,"['table', 'inside table', 'wait']","['neutral', 'positive', 'negative']",neutral
+1459,उन्होने top पर shredded cheese का प्रयोग किया है।,1,['shredded cheese'],['neutral'],neutral
+2214,"Bagels ठीक हैं, लेकिन sure रहें कि कोई special requests न करें!",1,['Bagels'],['neutral'],neutral
+599,One thing जो मुझे इस place के बारे में अच्छी लगी कि मुझपर table खाली करने या जल्दी करने का दबाव कभी नहीं डाला गया।,1,['table'],['neutral'],neutral
+1519,मैं 7 की party के साथ था (front doors के बगल में नहीं बल्कि close में) और हम अपने coast में खा रहे थे।,1,['front doors'],['neutral'],neutral
+2007,मैं Valentines Day dinner के लिए DF गया।,1,['Valentines Day dinner'],['neutral'],neutral
+2634,मैं और मेरे husband दोनों ने Steak medium order किया।,1,['Steak'],['neutral'],neutral
+407,मैं 4 glasses of water पी सकता था और अभी भी parched किया जा सकता है - इसलिए देखते रहो।,1,['glasses of water'],['neutral'],neutral
+2127,यदि किसी को doubt है कि वह wines के बारे में ज्यादा नहीं जानता तो कृपया अपना wine list देखे।,2,"['wines', 'wine list']","['neutral', 'positive']",neutral
+2487,specify भी करें अगर आप spicy food like करते हैं - यदि आप ऐसा नहीं करते हैं तो यह bland है।,1,['food'],['neutral'],neutral
+2221,"मैंने Chennai में कुछ समय पहले lunch buffet खाया था, जब मैं neighborhood में रहता था।",1,['lunch buffet'],['neutral'],neutral
+1218,Scallion pancakes और fried dumplings साधारण से ज्यादा कुछ नहीं थे।,2,"['Scallion pancakes', 'fried dumplings']","['neutral', 'neutral']",neutral
+1789,"जब उनसे पूछा गया कि other thai restaurants में इसकी तुलना में एक certain dish कैसे prepare किया जाता है, तो उन्होंने जवाब दिया कि यह Mcdonald's नहीं है, हर place पर चीजें अलग तरह से बनती है, जबकि यह समझा जा सकता है कि हर जगह indeed different है, customers के लिए uncourteous और downright rude होने की आवश्यकता नहीं थी।",1,['dish'],['neutral'],neutral
+1259,क्या मैंने wine को mention किया है।,1,['wine'],['neutral'],neutral
+2967,हमने भी two hot dogs यह सोचते हुए order किया कि वे हालांकि pretty good होंगे क्योंकि menu का whole section उनपर devoted है।,2,"['hot dogs', 'menu']","['neutral', 'neutral']",neutral
+2905,मैं 5 friends के साथ गया था और हम table पर थोड़ा lingered हो गए और rushed में बिलकुल नहीं थे जबकि थोड़ा wait था।,2,"['table', 'wait']","['neutral', 'negative']",neutral
+1617,हालांकि मैं weekends पर reservations को recommend करूंगा।,1,['reservations'],['neutral'],neutral
+1901,Pizza केवल O.K. है।,1,['Pizza'],['neutral'],neutral
+1918,Moderate prices.,1,['prices'],['neutral'],neutral
+36,मैंने कुछ previews reviews पढ़े हैं - people या तो New Yorkers नहीं हैं या फिर ambience के लिए food को अधिक appreciate करते हैं।,2,"['ambience', 'food']","['neutral', 'neutral']",neutral
+1235,वहाँ एक office lunch के लिए गया।,1,['office lunch'],['neutral'],neutral
+2619,मैं sure नहीं हूँ कि मैं इस food को यहाँ Indian कहूंगा क्योंकि यह एक Indian या exotic touch के साथ French लगता है।,1,['food'],['neutral'],neutral
+1913,"अन्य Indian restaurants की तरह, वे भी customers को door पर attract करने के लिए dinner special का उपयोग करते हैं।",1,['dinner special'],['neutral'],neutral
+1290,Kalbi और nebbiolo साथ work करते हैं।,2,"['Kalbi', 'nebbiolo']","['neutral', 'neutral']",neutral
+2447,"यह midtown में सबसे अच्छा secret place है', मैंने यह bartender से सुना था कि एक brilliant food खाने के बाद (steak with portobello mushrooms try करें) और पिछले Tuesday को bar में drinks था।",5,"['bartender', 'food', 'drinks', 'steak with portobello mushrooms', 'bar']","['neutral', 'positive', 'positive', 'positive', 'neutral']",neutral
+2711,Bagel बहुत बड़ा था।,1,['Bagel'],['neutral'],neutral
+1341,अगर आप spicy food पसंद है तो chicken vindaloo खाइये।,2,"['chicken vindaloo', 'spicy food']","['neutral', 'neutral']",neutral
+827,"कुल मिलाकर, एक solid restaurant और कम से कम $ 40pp (wine सहित), एक solid deal भी।",1,['wine'],['neutral'],neutral
+292,स्वयं को Japanese food के साथ stuffing करना एक rare thing है।,1,['Japanese food'],['neutral'],neutral
+926,food ठीक-ठाक था,1,['food'],['neutral'],neutral
+2606,"Southern Indian cuisine वहाँ, अभी भी है।",1,['Southern Indian cuisine'],['neutral'],neutral
+1179,यह mind-blowing नहीं है लेकिन मेरे लिए thai food ना है और ना होगा।,1,['thai food'],['neutral'],neutral
+1596,इस place को cost करने के लिए owners के afortune बढ़ने चाहिए।,2,"['owners', 'cost']","['neutral', 'negative']",neutral
+2978,Appetizers लगभग एक $7 का है और main dishes $11 और $16 के बीच में है।,2,"['Appetizers', 'main dishes']","['neutral', 'neutral']",neutral
+2654,"Sea Urchin से अलग, chef ने एक Fatty Yellow Tail वाली assortment of fish के साथ, Boton Shrimp, Blue Fin Torro (Fatty Tuna), Sea Eel, etc को recommend किया था।",7,"['chef', 'assortment of fish', 'Fatty Yellow Tail', 'Boton Shrimp', 'Sea Eel', 'Sea Urchin', 'Blue Fin Torro (Fatty Tuna)']","['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']",neutral
+2080,हमने उनके private room में एक party रखी और उन्होने इसे truly memorable बनाने और planning करने के लिए काफी help की।,1,['private room'],['neutral'],neutral
+2297,Meat dishes केवल so-so था।,1,['Meat dishes'],['neutral'],neutral
+729,हमारे table पर जो आया recognition और stringy के beyond जला दिया गया।,1,['table'],['neutral'],neutral
+2175,वे same menu offer करते हैं लेकिन कुछ creative drinks है जो alcohol और cheeky names से loaded है--मगर ये उसका cost लेते हैं।,2,"['menu', 'drinks']","['neutral', 'positive']",neutral
+949,"Client के लिए भी अच्छा lunch meetings, esp.",1,['lunch meetings'],['neutral'],neutral
+2283,"वही owner है जिसने Typhoon को लिया है, जिसका नीचे street में St. Marks और 1st Ave है।",1,['owner'],['neutral'],neutral
+1666,"और forget कि तुम मेरे under क्या पढ़ते हो, atmosphere उतना भी bad नहीं है।",1,['atmosphere'],['neutral'],neutral
+92,यहाँ dim sum servings है मेरे उपयोग से थोड़ा बड़ा है।,1,['dim sum servings'],['neutral'],neutral
+372,हम एक crowded saturday night को यहाँ आए और हमारे reservation में 15 minutes late होने के बाद भी हम तुरंत seated हो गए।,2,"['reservation', 'seated']","['neutral', 'positive']",neutral
+283,"केवल wine और beer ही served किए गए, लेकिन house varieties असल में काफी अच्छी है।",4,"['wine', 'beer', 'house varieties', 'served']","['neutral', 'neutral', 'positive', 'negative']",neutral
+1481,"हम बिलकुल थोड़ा tipsy से sake हो गए, नहीं तो Saturday nights क्या girlfriends के साथ नहीं होते?",1,['sake'],['neutral'],neutral
+2092,हमने cheese fondue से शुरुवात की (एक artisanal blend) और apples व kielbasa को डालने के लिए add किया।,3,"['cheese fondue', 'kielbasa', 'apples']","['neutral', 'neutral', 'neutral']",neutral
+1354,मैंने इससे पहले कभी भी 40 pieces अच्छी nigiri relatively नहीं खाया है।,1,['nigiri'],['neutral'],neutral
+1840,Service is average.,1,['Service'],['neutral'],neutral
+573,वे मुझे एक और glass of wine की पेशकश करने से पहले अपना glass finish नहीं करने देंगे।,1,['glass of wine'],['neutral'],neutral
+1067,आप उनकी अच्छी priced वाली wine list में excellent beers on tap के साथ food को pair करें।,4,"['food', 'beers on tap', 'wine list', 'priced']","['neutral', 'positive', 'positive', 'positive']",neutral
+2227,Dinner के दौरान एक Thai restaurant बिना rice के है।,2,"['rice', 'Dinner']","['neutral', 'neutral']",neutral
+2337,Food OK था - fish अच्छे से cooked था।,2,"['Food', 'fish']","['neutral', 'positive']",neutral
+440,"मैं यहाँ कुछ times में dinner के लिए, एक बार brunch और दो बार lunch के लिए आया हूँ।",3,"['dinner', 'brunch', 'lunch']","['neutral', 'neutral', 'neutral']",neutral
+981,"हमने एक भी menu नहीं देखा, क्योंकि हमारे waiter ने specials और main dishes दोनों को describe किया था।",4,"['menu', 'main dishes', 'waiter', 'specials']","['neutral', 'neutral', 'positive', 'neutral']",neutral
+2313,उन्हे हमारे glasses में water डालने के लिए 15 minutes लगे।,1,['water'],['neutral'],neutral
+1418,"दूसरी hand में, यदि आप easily fool नहीं कर सकते हैं, आपको hundreds of restaurants मिलेगा कि जिसमें आपको service और ambience Alain Ducasse के बराबर दिखेगा, और food जो presentation, taste, choice, quality और quantity में दिखेगा।",8,"['service', 'ambience', 'food', 'presentation', 'taste', 'choice', 'quality', 'quantity']","['neutral', 'neutral', 'negative', 'negative', 'negative', 'negative', 'negative', 'negative']",neutral
+271,"पहली बार में restaurant packed था, इसलिए हम bar में बैठने से पहले about 20 minutes तक wait करते रहे।",1,['bar'],['neutral'],neutral
+3016,तब हमने एक dinosaur rolls और white tuna sashimi का order किया।,2,"['dinosaur rolls', 'white tuna sashimi']","['neutral', 'neutral']",neutral
+1477,$20 में आप sushi में बिना हिचक के कुछ भी खा सकते हैं,1,['sushi'],['neutral'],neutral
+2186,"Main course आने के बाद, हमने अपने waiter को लगभग 40 MINUTES तक नहीं देखा।",2,"['Main course', 'waiter']","['neutral', 'negative']",neutral
+1,इस restaurant को pass करने के कुछ समय बाद मैंने finally अंदर जाकर और dinner करने का decide किया।,1,['dinner'],['neutral'],neutral
+2806,"यह pad thai और tom yum soup के लिए expected menu नहीं था, लेकिन मैंने सोचा कि place को इतना special किसने बनाया।",3,"['menu', 'pad thai', 'tom yum soup']","['neutral', 'neutral', 'neutral']",neutral
+2915,"जब हमने उसे notify किया कि उसने specials को mention नहीं किया है, तो उसने apologize नहीं किया, लेकिन हमें बताया कि हमने बहुत अच्छा decision लिया है regardless.",1,['specials'],['neutral'],neutral
+1099,एक drink के लिए पूरा time लग जाता है और वे लगभग हमेशा कुछ न कुछ लाना भूल जाते हैं (जबकि वे इसके लिए आपसे charge लेना नहीं भूलते हैं।),1,['drink'],['neutral'],neutral
+2694,Seating ठीक है हालाकि कबी-कबी बहुत से people होते हैं।,1,['Seating'],['neutral'],neutral
+1125,Prices are in line.,1,['Prices'],['neutral'],neutral
+1824,हम केवल एक appetizer और cheese fondue के माध्यम से पा सकते हैं।,2,"['appetizer', 'cheese fondue']","['neutral', 'neutral']",neutral
+1095,"हमने यहां March, 2006 में खाया और pre-theatre के 3-course dinner के साथ wine flight का ऑर्डर दिया।",2,"['pre-theatre के 3-course dinner', 'wine flight']","['neutral', 'neutral']",neutral
+373,"जब हम बहुत hungry थे, तो हमें appetizer platter order करने की जल्दी थी।",1,['appetizer platter'],['neutral'],neutral
+681,"Food average था और creme brulee awful था - sugar charred था, caramelized नहीं किया गया था और kerosene की गंध थी।",3,"['Food', 'creme brulee', 'sugar']","['neutral', 'negative', 'negative']",neutral
+1541,"हमारे lemon salad के exception के साथ, जिस पर इतना pepper था कि हमारे eyes से water निकलने लगा, यहाँ का food decent था, पर great नहीं।",3,"['food', 'lemon salad', 'pepper']","['neutral', 'negative', 'negative']",neutral
+2567,Service लगातार excellent नहीं है -- बस decent है।,1,['Service'],['neutral'],neutral
+2195,"Seafood craving के बाद, मैंने citysearch check किया और previous review और citysearch info के आधार पर fish को चुना।",1,['Seafood'],['neutral'],neutral
+2602,"Normally वह improper होगा, जबकि वे सभी delicious थे और मेरे host ने complain नहीं किया।",1,['host'],['neutral'],neutral
+85,मेरे पास garlic mash with Filet Mignon था।,1,['garlic mash with Filet Mignon'],['neutral'],neutral
+3033,"Service typical short-order, dinner जैसा था।",1,['Service'],['neutral'],neutral
+2782,किसी ने नहीं पूछा कि क्या wrong था क्योंकि हमने अपने plates में बिना कुछ छूए छोड़ दिया।,1,['plates'],['neutral'],neutral
+274,Food ठीक है और यहाँ की prices mediocre हैं।,2,"['Food', 'prices']","['neutral', 'neutral']",neutral
+2327,Makhani OK था --korma नरम था।,2,"['Makhani', 'korma']","['neutral', 'negative']",neutral
+41,आपका money easily कहीं और better spent किया जा सकता है (कहीं भी)।,1,['money'],['neutral'],neutral
+1319,Other apetizers and food,2,"['apetizers', 'food']","['neutral', 'neutral']",neutral
+345,हालांकि उनके dinner menu to sit से warned होकर और अलग prices को take out करना है।,3,"['prices', 'dinner menu to sit', 'take out']","['neutral', 'neutral', 'neutral']",neutral
+2205,Saturday night को late night dinner किया।,1,['dinner'],['neutral'],neutral
+1688,Tried the pad see ew on the recommendation of the last reviewer since it's one of my favorite dishes.,2,"['pad see ew', 'dishes']","['neutral', 'positive']",neutral
+2236,"1 appetizer, 2 entrees और 2 cokes लिया और bill था ~$55.00, tip को include किए बिना।",4,"['appetizer', 'entrees', 'cokes', 'bill']","['neutral', 'neutral', 'neutral', 'neutral']",neutral
+2685,"हमने figure किया कि हमारे पास पहले कभी Argentinian Pizza नहीं था, इसलिए हमने वहां अपना lunch grab किया, एक large Pelligrino को share करते हुए, उनके two  specials में से एक pizza, एक goat cheese दूसरे blue cheese, और दोनों ही excellent थे।",6,"['Argentinian Pizza', 'lunch', 'Pelligrino', 'pizza', 'goat cheese', 'blue cheese']","['neutral', 'neutral', 'positive', 'positive', 'positive', 'positive']",neutral
+1444,इस place का food gourmet का Indian cuisine है।,2,"['food gourmet', 'Indian cuisine']","['neutral', 'neutral']",neutral
+689,लेकिन कौन कहता है कि Murray's भी service में कुछ हैं।,1,['service'],['neutral'],neutral
+1415,मुझे हमेशा Shabu-Shabu dinner मिलता है और beef हमेशा fresh रहता है।,2,"['Shabu-Shabu dinner', 'beef']","['neutral', 'positive']",neutral
+1345,No free drink.,1,['drink'],['neutral'],neutral
+3003,मेरा यह कहना है कि यदि यह वही है जो आपको easy से एक lunch seat देता है- मैं mind नहीं करुगा।,1,['lunch'],['neutral'],neutral
+68,"(Food एक busboy, ना कि waiter द्वारा delivered किया गया था) हमें pasta के लिए कोई cheese offer नहीं किया गया था, हमारे water and wine glasses खाली रह गए हमारे meal, wine पर जब हमने 20$ खर्च किये।",8,"['Food', 'busboy', 'waiter', 'cheese', 'pasta', 'water and wine glasses', 'wine', 'meal']","['neutral', 'negative', 'negative', 'negative', 'negative', 'negative', 'neutral', 'neutral']",neutral
+788,"हम अभी भी bar में बैठे थे, जब हमने sangria पिया था, लेकिन bar से दूर होने पर जब हम turned back हुए, तो $ 2 चला गया था, हमारे बगल के लोगों ने कहा कि bartender ने इसे लिया था।",4,"['sangria', 'bar', 'bar', 'bartender']","['neutral', 'neutral', 'neutral', 'negative']",neutral
+2760,"Volare जाना अपनी favorite aunt के house dinner के लिए जाने जैसा है, यह मानते हुए कि आपकी aunt एक great italian cook हैं।",1,['dinner'],['neutral'],neutral
+727,मुझे इस place से high expectations थी और कुछ month पहले ही इस occasion के लिए advance में reservation करा लिए थे।,1,['reservation'],['neutral'],neutral
+485,"मैं कोई food critic नहीं हूं, लेकिन मुझे लगता है कि मेरे पास last 11 years से NY के एक belt में रहने से एक छोटा सा experiance हुआ है।",1,['food'],['neutral'],neutral
+2563,मेरे first dinner के बाद से मुझे Orsay 3x में brunch करने का chance मिला है।,2,"['dinner', 'brunch']","['neutral', 'neutral']",neutral
+1602,हम village में walk कर रहे थे और कुछ drinks के लिए इस place पर गए।,1,['drinks'],['neutral'],neutral
+425,अगर मेरे stomach में और space होता तो मैं कुछ cole slaw और एक knish लेता।,2,"['cole slaw', 'knish']","['neutral', 'neutral']",neutral
+1324,आपके average bagel place से थोड़ा अधिक expensive भी है।,1,['bagel'],['neutral'],neutral
+2981,मेरी wife और मैं Valentine's dinner के लिए Orsay गए थे।,1,['dinner'],['neutral'],neutral
+2285,Workers वहाँ बिलकुल bagel के साथ cream cheese भी load करता है।,3,"['Workers', 'bagel', 'cream cheese']","['neutral', 'neutral', 'neutral']",neutral
+1577,Appetizers बस Ok हैं और main courses decidedly कमाल के थे।,2,"['Appetizers', 'main courses']","['neutral', 'negative']",neutral
+193,मेरे बगल के table ने कहा कि जब यह grapes को खुद  finally आए हुए  bottle of wine के लंबे overdue से crushed करता है।,2,"['bottle of wine', 'grapes']","['neutral', 'neutral']",neutral
+2728,"और, जबकि tables हमारे बगल में खुले हुए हैं और हमने थोड़े larger space के लिए पूछा, उन्होने हमें awkardly बैठा हुआ छोड़ा।",2,"['tables', 'space']","['neutral', 'neutral']",neutral
+1208,"एक large $20 का है, और toppings वाला each लगभग $3 का है।",1,['toppings'],['neutral'],neutral
+923,Usually 3 vs. 4 items per dish.,1,['dish'],['neutral'],neutral
+2210,एकबार उनका Gnochi खत्म हो गया और उन्होने मेरे लिए उसे फिर scratch से बनाया।,1,['Gnochi'],['neutral'],neutral
+2260,"Saul pretty good है, लेकिन great बिलकुल नहीं है।",1,['Saul'],['neutral'],neutral
+408,"वे एक sandwich भूल गए, plastic forks नहीं दिये थे, और hummus platter के साथ pita नहीं दिये थे।",4,"['sandwich', 'plastic forks', 'pita', 'hummus platter']","['neutral', 'neutral', 'neutral', 'neutral']",neutral
+2593,मैंने एक Lassi order किया और 4 times उससे इसके लिए पूछा लेकिन कभी नहीं मिली।,1,['Lassi'],['neutral'],neutral
+3004,मेरे family और मैंने यहाँ last night अपने annual Christmas dinner पर  family members के साथ खाया है जो शायद ही friends के साथ holidays out-of-town बिताते हैं।,1,['Christmas dinner'],['neutral'],neutral
+2689,Dim sum यहाँ केवल so-so है।,1,['Dim sum'],['neutral'],neutral
+2146,मैंने food के लिए one hour से ज्यादा wait किया।,1,['food'],['neutral'],neutral
+110,Reality में (potential diners को maximize करने के लिए) वे अभी भी phone reservations कर रहे थे और lobby में waiting लोगों के लिए tables को reallocate कर रहे थे।,5,"['diners', 'reservations', 'tables', 'lobby', 'waiting']","['neutral', 'negative', 'negative', 'neutral', 'negative']",neutral
+525,"हमें अपना check पाने में half an hour लग गया, जो हमारे लिए बैठ कर drinks और talk करने के लिए बिलकुल perfect था!",2,"['drinks', 'check']","['neutral', 'neutral']",neutral
+1062,उन्हे हमारे appetizer को लाने में 25 minutes लगे।,1,['appetizer'],['neutral'],neutral
+2738,"केवल एक weird चीज यह थी कि जब हमने एक bottle लिया, waitress ने उसे simply glass price X4 से multiply किया, जिसका कोई sense नहीं बनता है।",3,"['bottle', 'waitress', 'price']","['neutral', 'negative', 'negative']",neutral
+2412,"मैंने Lucky Stike में late dinner किया, अगर हम एकबार देखें तो एक joint के लिए एक great name है।",1,['dinner'],['neutral'],neutral
+2920,हमें lunch के दौरान कुछ ही times wait करना पड़ा था लेकिन यह place बिलकुल wait करने के लिए worth है।,2,"['lunch', 'wait']","['neutral', 'positive']",neutral
+2185,"हमारे sashimi order  मिलने के बाद, मुझे believe नहीं हो रहा था कि portions कितने small थे! ",2,"['sashimi', 'portions']","['neutral', 'negative']",neutral
+1683,"हमने actually में 10% tip दी (जो हमने mediocre food और service के बावजूद कभी नहीं किया), क्योंकि हमने पूरी तरह से ripped off feel किया।",3,"['food', 'service', 'tip']","['neutral', 'neutral', 'negative']",neutral
+481,"जैसा कि हम जा रहे थे, door से खड़े होकर एक couple ने दूसरे waiter से कहा, कि हम जल्दी में नहीं हैं।",1,['waiter'],['neutral'],neutral
+2288,इसलिए menu head के ऊपर chalk से लिखा है और यह delicious sound करता है।,1,['menu'],['neutral'],neutral
+1494,"uni from maine vs california, sea vs freshwater eel) to get a good taste comparison.",1,['eel'],['neutral'],neutral
+2068,यह वही Sichuan chef चला रहा है जिसने Chinatown में chain start किया था।,1,['Sichuan chef'],['neutral'],neutral
+2317,मैंने यहाँ बहुत से pizza खाएं हैं।,1,['pizza'],['neutral'],neutral
+2660,"मेरे host ने group के appetizers के लिए कहा और waiter ने हमें केवल हमारा order ही नहीं दिया, बल्कि कुछ और भी जो हमने order नहीं किया था। ",3,"['host', 'appetizers', 'waiter']","['neutral', 'neutral', 'neutral']",neutral
+38,"हम dinner के लिए एक impressive past से impress होने की expection रखे थे - लेकिन, यह बस PAST है!",1,['dinner'],['neutral'],neutral
+1162,हम food के search में और East Sixth Street के इस Indian restaurant के block के बीच ठोकर खा रहे थे।,1,['food'],['neutral'],neutral
+576,यह great place लगातार lunch या dinner करने के लिए अबतक dine रहा है।,3,"['lunch', 'dinner', 'dine']","['neutral', 'neutral', 'positive']",neutral
+1383,"हमें हंसी आई जब उसने finally हमें एक dessert menu की offer की और हमने एक 10 percent tip छोड़ दिया, जो मुझे लगता है, generous था।",2,"['dessert menu', 'tip']","['neutral', 'positive']",neutral
+2653,"यदि आप बैठने के लिए place देख रहे हैं, तो एक drink लीजिये और friends के साथ conversations कीजिये, sweet-n-tart जाइए और खुद के लिए hong-kong styled milk और tea with tapioca pearls (hot) का order दीजिए।",3,"['drink', 'hong-kong styled milk', 'tea with tapioca pearls (hot)']","['neutral', 'positive', 'positive']",neutral
+34,New York में हमारा first time था और हमें एकNew York Bagel को आज़मा लिया था।,1,['New York Bagel'],['neutral'],neutral
+545,मेरा suggestion है कि eat family style क्योंकि तुम other dishes को try करना चाहोगे।,2,"['dishes', 'eat family style']","['neutral', 'positive']",neutral
+881,यहाँ अपना time waste करने के बजाय: RESTAURANTS को SUPPORT करो जो FOOD का ध्यान रखते हैं।,1,['FOOD'],['neutral'],neutral
+2201,Fillings unconventional हो सकता है मगर dosa batter बिलकुल authentic और combinations बहुत tasty बनाता है।,2,"['Fillings', 'dosa batter']","['neutral', 'positive']",neutral
+349,6 $ के लिए 6 Blue Point oysters और एक beer या glass of wine वाला एक great deal था!,3,"['Blue Point oysters', 'beer', 'glass of wine']","['neutral', 'neutral', 'neutral']",neutral
+1014,"दूसरा जब आपके arrival के anticipation करने वाले लोगों के साथ आप heavy vault की तरह door से गुजरते हैं, तो आपको समझ में आता है कि आप lifetime की dining ride करने जा रहे हैं।",1,['door'],['neutral'],neutral
+575,"When asked, हमें more detailed questions पूछने थे ताकि हमें पता चले कि क्या specials थे।",1,['specials'],['neutral'],neutral
+2589,मैं वहां lunch के लिए गया था और यह उतना अच्छा नहीं था जितना मैंने read किए हुए reviews से expect किया था।,1,['lunch'],['neutral'],neutral
+93,वे trays of Dim Sum को साथ लेकर नहीं चलते।,1,['trays of Dim Sum'],['neutral'],neutral
+975,Food बस ठीक था कम से कम जिसके लिए भी food available था।,2,"['Food', 'food']","['neutral', 'negative']",neutral
+1765,"मैंने बाकी menu पर एक नज़र नहीं डाला, लेकिन oysters fantastic था।",2,"['menu', 'oysters']","['neutral', 'positive']",neutral
+3024,वे 6 बजे तक मुझे squeeze करने में सक्षम थे जिसके बाद मैंने एक friday night को अपनी anniversary पर reservation के लिए पहले से call किया था और मुझे बताया कि वे हमें इस occasion पर अच्छे से treat करेंगे।,1,['reservation'],['neutral'],neutral
+1391,"मुझे full होने के लिए at least तीन rolls की जरूरत है, और वो भी कम से कम 14.00 $ में। ",1,['rolls'],['neutral'],neutral
+2993,"मैं वहाँ Half-Price Saturday Night Special के लिए नहीं था, लेकिन Tuesday Night के लिए था।",1,['Half-Price Saturday Night Special'],['neutral'],neutral
+2601,मैंने उससे जो dish request किया था उसे उसके finally वापस लाने के पहले मुझे उससे three times पूछना पड़ा।,1,['dish'],['neutral'],neutral
+589,मैं Dosa खाकर पला बड़ा हूँ और अभी तक अपने taste buds को satisfy करने के लिए NY में एक भी place नहीं ढूंढ पाया हूँ।,1,['Dosa'],['neutral'],neutral
+561,"मैं दो शुक्रवार पहले इस second floor पर walk-up के लिए stumble हो गया, जब अपने दो friends के साथ L.A. में था। serious sushi lovers होने के कारण हम sushi bar में action के लिए करीब बैठे।",2,"['sushi', 'sushi bar']","['neutral', 'neutral']",neutral
+1863,"जबकि prices कुछ भी special नहीं हैं, लेकिन portions बहुत huge है।",2,"['prices', 'portions']","['neutral', 'positive']",neutral
+2062,हर waitress और customer जो यहाँ से गुज़रता है मेरे chair से टकराता है।,1,['waitress'],['neutral'],neutral
+3035,मुझे believe नहीं कर सकता कि people बिना cheese sticks के होने के बारे में complain करते हैं।,1,['cheese sticks'],['neutral'],neutral
+2016,Food भी अच्छा ही था - spectacular कुछ भी नहीं - लेकिन service awful थी।,2,"['Food', 'service']","['neutral', 'negative']",neutral
+1788,Service ठीक थी।,1,['Service'],['neutral'],neutral
+641,"मैंने reservations करने की कोशिश की है, lलेकिन दोनों times, hostess ने मेरा name नहीं लिया।",2,"['reservations', 'hostess']","['neutral', 'negative']",neutral
+541,"मैंने seltzer with lime, बिना ice के पूछा।",1,['seltzer with lime'],['neutral'],neutral
+2547,"मैं बहुत special occasion के लिए definitely वापस जाऊंगा, लेकिन regular fine dining के लिए नहीं।",1,['dining'],['neutral'],neutral
+2643,बहुत से dim sum orders के लगभग 6-8 pieces थे।,1,['dim sum orders'],['neutral'],neutral
+191,यह place casual date या कुछ certain clients के lunch के लिए उत्तम है।,1,['lunch'],['neutral'],neutral
+1672,"यह place उन people के लिए है जो mediocre food, noise और अपने fellow bridge और tunnel folks के लोगों के साथ रहने का एक chance देते हैं।",2,"['food', 'noise']","['neutral', 'negative']",neutral
+2932,"Service औसत थी, और air conditioning ने आरामदायक meal की तुलना में air conditioning की कमी से बना है।",3,"['Service', 'air conditioning', 'meal']","['neutral', 'negative', 'negative']",neutral
+2073,"यदि आप ऐसे है जो उसी बात को appreciate करते हैं लेकिन food को spare या share करने की hope रखते हैं, Kai सबसे अच्छा option नहीं हो सकता है।",1,['food'],['neutral'],neutral
+2682,मैं यहाँ बहुत times आ चुकी हूँ waiters मेरा name जानते हैं।,1,['waiters'],['neutral'],neutral
+1532,"Live music के लिए space थोड़ा बहुत small है, इसलिए jazz nights पर, यह loud और cramped हो सकता है।",3,"['Live music', 'space', 'jazz nights']","['neutral', 'negative', 'neutral']",neutral
+1351,Decor पर money बर्बाद ना करें।,1,['Decor'],['neutral'],neutral
+1555,यह restaurant हमारा हमेशा केThursday night का dinner location हुआ करता था।,1,['dinner location'],['neutral'],neutral
+1097,"शायद lunch के लिए बहुत busy रहता है, यह dinner के लिए भी कभी-कभी बहुत crowded (downtown के काफी close) हो जाता है।",2,"['lunch', 'dinner']","['neutral', 'neutral']",neutral
+971,"मैं आमतौर पर indian के साथ wine के order नहीं देता, इसलिए मैं उनकी wine list या उनके wines पर comment नहीं कर सकता।",4,"['wine', 'indian', 'wine list', 'wines']","['neutral', 'neutral', 'neutral', 'neutral']",neutral
+2273,"कोई भी food snobs allow नहीं था, यह place उन people के लिए है जो good food को appreciate करते हैं।",2,"['food', 'food']","['neutral', 'positive']",neutral
+1297,"हम dessert खाने की planning कर रहे थे, लेकिन हालांकि उससे पहले ही waitress ने हमे bill throw कर दिया, जिससे पहले कि हम order कर पाते।",3,"['dessert', 'waitress', 'bill']","['neutral', 'negative', 'neutral']",neutral
+3039,"हर table पर pot of boiling water अपने surface में डूबा हुआ था, और आपको पतले कटे हुए platters meats, बहुत से vegetables और rice और glass noodles मिलते हैं।",6,"['table', 'pot of boiling water', 'meats', 'vegetables', 'rice', 'glass noodles']","['neutral', 'neutral', 'neutral', 'neutral', 'neutral', 'neutral']",neutral
+190,वहाँ गया और विभिन्न seafood dishes के combination और appetizers को रखा।,2,"['seafood dishes', 'appetizers']","['neutral', 'neutral']",neutral
+2061,"Food okay था, कुछ भी great नहीं था। ",1,['Food'],['neutral'],neutral
+813,यह एक nice restaurant है यदि आप business associates के साथ एक intimate dinner meeting को host करने के लिए एक अच्छे place की तलाश कर रहे हैं।,1,['dinner meeting'],['neutral'],neutral
+1172,हमें बताया गया था कि wait twenty minutes का होने वाला था और 8:00 बजे वाले curtain call के लिए कोई problem नहीं होने वाली थी।,1,['wait'],['neutral'],neutral
+2830,"मैं 100 lb girl हूँ, dinner के पहले एक glass of wine और एक glass of beer ली थी, और मैं मेरे इस plate के visit के बाद भी भूखी थी!",3,"['glass of wine', 'glass of beer', 'dinner']","['neutral', 'neutral', 'neutral']",neutral
+1117,"हमने केवल restaurant में खाया है, लेकिन हमने dinner के लिए कई बार order दिया है।",1,['dinner'],['neutral'],neutral
+1328,यह secret है कि lunch menu जो हर entree ordere के साथ एक complimentary appetizer offer करता है।,3,"['lunch menu', 'appetizer', 'entree']","['positive', 'positive', 'positive']",positive
+596,"अच्छे bagels, spreads और hang out के लिए एक अच्छी जगह है।",2,"['bagels', 'spreads']","['positive', 'positive']",positive
+86,Date के लिए शानदार romantic place (पास बैठने और थोड़ी privacy के लिए corner booth table).,3,"['privacy', 'corner booth table', 'place']","['positive', 'positive', 'positive']",positive
+2497,अगर आप ज्यादा authentic NYC deli के अनुभव की search में हैं तो Lower East Side में famous और historic Katz's Deli के अलावा कोई और नहीं है।,1,['deli'],['positive'],positive
+1434,"आसपास में न केवल cuisine best है, बल्कि service भी हमेशा attentive और charming रही है।",2,"['cuisine', 'service']","['positive', 'positive']",positive
+725,Other night हमारे पास $ 30 में three course meal था और सब कुछ delicious था - अगर मैं plate को चाट कर clean कर पाता तो मैं करता।,1,['three course meal'],['positive'],positive
+1621,हम 8 के एक group में well served किए गए थे।,1,['served'],['positive'],positive
+2955,"इसका location अच्छा है और fact यह है कि Hutner College पास में है और उनके prices बहुत reasonable है, जिससे students को बार-बार Suan वापस जाना पड़ता है।",2,"['location', 'prices']","['positive', 'positive']",positive
+464,"अच्छा crowd है, एक hip japanese vibe के साथ अच्छी outdoor seating है।",2,"['outdoor seating', 'vibe']","['positive', 'positive']",positive
+338,"Spectacular caviar से hospitable waitstaff तक, मैंने royalty की तरह इसके every second को feel और enjoy किया।",2,"['caviar', 'waitstaff']","['positive', 'positive']",positive
+1374,Fries बहुत yummy होते हैं।,1,['Fries'],['positive'],positive
+978,"Ambience अच्छा था, लेकिन service इतनी great नहीं थी।",2,"['Ambience', 'service']","['positive', 'negative']",positive
+2496,मेरा fish एक incredible curry sauce में delicious था,2,"['fish', 'curry sauce']","['positive', 'positive']",positive
+1198,यह place cheap lunch और dinner ले जाने के लिए सबसे उत्तम है।,2,"['lunch', 'dinner']","['positive', 'positive']",positive
+2646,"यदि आपके पास dumpling fetish है, मैं आपको कुछ यहाँ try करने के लिए suggest करता हूँ।",1,['dumpling'],['positive'],positive
+1285,"Pizza- NYC में एकमात्र pizza जिस पर additional toppings नहीं होता है - crust का taste सबसे अच्छा होता है, freshly पका हुआ bread है।  ",5,"['Pizza', 'crust', 'pizza', 'toppings', 'bread']","['positive', 'positive', 'positive', 'neutral', 'positive']",positive
+1331,Shrimp scampi शानदार थी और antipasti ज़्यादा मात्रा में थी।,2,"['Shrimp scampi', 'antipasti']","['positive', 'positive']",positive
+1361,"उनका eggplant कितना delicate, sweet tender है!",1,['eggplant'],['positive'],positive
+1029,"हमने Nina के block में park किया, people के साथ obviously अपना pizzas enjoy करने के लिए place अच्छा दिखता था।",2,"['place', 'pizzas']","['positive', 'positive']",positive
+1005,सभी food गर्म और tasty थे।,1,['food'],['positive'],positive
+1833,मैंने सब कुछ enjoy किया है जो भी मैंने पाया है और fish बहुत fresh है और हमेशा great तरीके से prepare किया गया है।,1,['fish'],['positive'],positive
+1105,"इसके अलावा, tiramisu के delicious और perfect slice के साथ meal top पर है।",2,"['tiramisu', 'meal']","['positive', 'neutral']",positive
+2840,Filet mignon dish कमाल का था।,1,['Filet mignon dish'],['positive'],positive
+1007,Pizza बाहर खाने के लिए यह एक great place है लेकिन take-out pizza के लिए अच्छा place नहीं है।,2,"['Pizza', 'take-out pizza']","['positive', 'negative']",positive
+696,"Pizza स्वादिष्ट है- वे सस्ते, जमे, कटे हुए cheese के बजाय fresh mozzarella का use करते हैं जो most pizzaria's में common है। ",3,"['Pizza', 'fresh mozzarella', 'cheese']","['positive', 'positive', 'negative']",positive
+2533,"Empty table पाने में केवल five या लगभग इतने मिनट लगे, लेकिन standing up रहना भी इतना bad नहीं था।",1,['table'],['positive'],positive
+841,"यदि आप कुछ roast duck, pork या chicken on rice with ginger चाहते हैं, तो उन्हें आज़माएं!",3,"['roast duck', 'pork', 'chicken on rice with ginger']","['positive', 'positive', 'positive']",positive
+1603,Decent wine selection too.,1,['wine selection'],['positive'],positive
+2953,Place's decor और hidden bathrooms अच्छी मुस्कान के लिए बना है।,2,"['decor', 'bathrooms']","['positive', 'positive']",positive
+2952,Service कमाल का है और मेरा crab-cake eggs benedict अच्छा नहीं बन सका।,2,"['Service', 'crab-cake eggs benedict']","['positive', 'positive']",positive
+1313,"लेकिन last night के बाद, Spice Grill एकमात्र ऐसी place है जहां मैं indian cuisine खा रहा हूं।",1,['indian cuisine'],['positive'],positive
+226,"Photobook menu एक लाजवाब touch था, जो पक्का मेरे ग्रुप को help करने और मैंने हम लोगों द्वारा order किए गए fried chicken, pork chop, और noodle dishes को लिया था।",4,"['menu', 'fried chicken', 'pork chop', 'noodle dishes']","['positive', 'neutral', 'neutral', 'neutral']",positive
+1058,इस place पर कई different styles के pizza हैं और ये सभी कमाल के हैं।,1,['styles के pizza'],['positive'],positive
+2207,उनका sake martini शानदार है।,1,['sake martini'],['positive'],positive
+2874,हम आमतौर पर कुछ dinner specials प्राप्त करते हैं और वे reasonably priced और बहुत tasty होते हैं।,2,"['dinner specials', 'priced']","['positive', 'positive']",positive
+138,"हमने crawfish boiled खाया और किसी mess के बावजूद, यह मजेदार और quite tasty भी था।",1,['crawfish boiled'],['positive'],positive
+2720,Service ही केवल इस restaurant के बारे में अच्छी बात है।,1,['Service'],['positive'],positive
+1769,"बढ़िया service, बढ़िया food.",2,"['service', 'food']","['positive', 'positive']",positive
+135,"हालांकि no-class Famous Ray's द्वारा निकाले जाने के बाद भी, Sal ने अपने पिता के legacies को smile के साथ खड़ा किया, उसके community के लिए true love, और उसके Outstanding Pizza को न भूलें! ",1,['Pizza'],['positive'],positive
+2942,जो इस restaurants को special बनाता है वो authentic sichuan cooking है और NYC में अकेला होने से authentic chongqing hotpot offer करता है।,2,"['sichuan cooking', 'chongqing hotpot']","['positive', 'positive']",positive
+88,"Sauce on the pizza, garlic, और fresh tomatoes के साथ sooo good लगती है और वे skimp नहीं करते।",3,"['garlic', 'fresh tomatoes', 'Sauce on the pizza']","['positive', 'positive', 'positive']",positive
+2757,अब तक का best Reuben sandwich!,1,['Reuben sandwich'],['positive'],positive
+2152,Spicy Tuna roll बड़ा और शायद best है जिसे मैंने इस price range में खाया है।,2,"['Tuna roll', 'price range']","['positive', 'positive']",positive
+237,"Offered किये गए dishes unique, बहुत tasty और lamb sausages से fresh, sardines with biscuits, कमाल के large whole shrimp वाले pistachio ice cream जैसे (अब तक का सबसे अच्छा और सबसे fresh खाया है) थे।",5,"['dishes', 'lamb sausages', 'sardines with biscuits', 'large whole shrimp', 'pistachio ice cream']","['positive', 'positive', 'positive', 'positive', 'positive']",positive
+2579,Garlic mashed potatoes परंपरागत रूप से इस city में सबसे अच्छे बनते हैं!,1,['Garlic mashed potatoes'],['positive'],positive
+615,वे weekends पर अक्सर crowded हो जाते हैं लेकिन वे अपने service के साथ efficient और accurate हैं।,2,"['service', 'crowded']","['positive', 'negative']",positive
+987,मैं पसंद करता हूँ और मैं अच्छे से gourmet food को जानता हूँ!,1,['gourmet food'],['positive'],positive
+1201,"जब भी आपको Sushi fix की ज़रूरत होगी, Mizu वहाँ quality fish और great service के साथ रहेगी।",3,"['fish', 'service', 'Sushi fix']","['positive', 'positive', 'positive']",positive
+1582,"Mediterranean salad को try करें, यह आपके taste buds के लिए एक सच्चा experience है!!",1,['Mediterranean salad'],['positive'],positive
+902,मैंने best ravioli खाया था।,1,['ravioli'],['positive'],positive
+1841,लेकिन उन्होंने सभी typical pizzeria faves और कुछ कमाल के specials Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual) के लिए अच्छा job किया है।,2,"['Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual)', 'specials']","['positive', 'positive']",positive
+557,Price reasonable है हालांकि service खराब है।,2,"['Price', 'service']","['positive', 'negative']",positive
+423,वास्तव में अंदर cool stuff है।,1,['stuff'],['positive'],positive
+1751,कमाल का food और prices बहुत ही reasonable हैं।,2,"['food', 'prices']","['positive', 'positive']",positive
+1466,मैं इस low-key upper eastsider और उनके प्रामाणिक thai cuisine से बहुत प्रभावित था !!!,1,['thai cuisine'],['positive'],positive
+1440,"दिलचस्प selection, अच्छा wines, अच्छी service, fun decor.",3,"['wines', 'service', 'decor']","['positive', 'positive', 'positive']",positive
+692,Chef को सलाम।,1,['Chef'],['positive'],positive
+742,"मैंने भी Change Mojito order किया, जो इस world से out था।",1,['Change Mojito'],['positive'],positive
+1457,"वे दूसरे के service से disappoint नहीं हुए, मैं जब door पर आया तो extremely pleasent और attentive के साथ लगभग हर table पर एक server था। ",3,"['service', 'server', 'table']","['positive', 'positive', 'neutral']",positive
+153,"कोई dress codes नहीं, कोई attitudes नहीं, बहुत ज्यादा comfort companionship है, हमेशा busy Midtown में relax करने के लिए एक शानदार place है।",3,"['dress codes', 'attitudes', 'place']","['positive', 'positive', 'positive']",positive
+1301,"मेरे पास बहुत terrific meal था, और हमारे server ने हमारी price range में हमें एक बहुत अच्छे wine के बारे में guide किया था, इसके बजाय हमें एक similar priced wine खरीदने के लिए allow किया गया जो अच्छा नहीं था।",6,"['meal', 'server', 'wine', 'wine', 'price range', 'priced']","['positive', 'positive', 'positive', 'negative', 'positive', 'neutral']",positive
+1907,Food midtown की तुलना में average से ज्यादा है और city के कुछ अन्य Heartland Breweries की तुलना में slightly better है।,1,['Food'],['positive'],positive
+96,"Food अच्छा है, especially उनके अधिक basic dishes, और drinks शानदार है।",3,"['Food', 'dishes', 'drinks']","['positive', 'positive', 'positive']",positive
+1212,Brick oven gallery कहीं भी सबसे अच्छे pizza restaurant के रूप में मेरा चुनाव है।,1,['pizza'],['positive'],positive
+1680,Dahkin prix fixe lunch और buffet भी offer करता है।,2,"['prix fixe lunch', 'buffet']","['positive', 'positive']",positive
+972,Pastrami or corned beef रसेदार और piled high (extra rye bread के लिए पूछते) हैं।,2,"['Pastrami or corned beef', 'rye bread']","['positive', 'positive']",positive
+2256,मैं upstairs बैठने के लिए suggest करता हूँ अगर आप थोड़े cozy होने लगे हैं।,1,['upstairs'],['positive'],positive
+808,"मैं Cafe St. Bart's को उनके food, ambience और कमाल के service के लिए अत्यधिक recommend करता हूं।",3,"['food', 'ambience', 'service']","['positive', 'positive', 'positive']",positive
+2322,एक delicate butternut squash ravioli in a delicious truffle sauce में एक amazing buttery and tender langostine entree के chef app से और dessert में tender langostine entree जो मुझे fabulous Cakebread Cabernet के पीने की वजह से याद नहीं -- पूरी evening शानदार थी।,5,"['chef app', 'delicate butternut squash ravioli in a delicious truffle sauce', 'buttery and tender langostine entree', 'dessert', 'Cakebread Cabernet']","['positive', 'positive', 'positive', 'neutral', 'positive']",positive
+2280,"जबकि HH block के ऊपर, यह place वास्तव में आपको hearty और hot bagels देता है जिसके लिए यह town जाना जाता है।",1,['bagels'],['positive'],positive
+873,Highly recommended is the Spicy Fried Clam Rolls and Spider Rolls.,2,"['Spicy Fried Clam Rolls', 'Spider Rolls']","['positive', 'positive']",positive
+2941,"हालाकि, यदि आप शानदार food एक शानदार price में चाहते हैं और decor की चिंता नहीं करते हैं, तो आप इस place को beat नहीं कर सकते हैं।",3,"['food', 'price', 'decor']","['positive', 'positive', 'negative']",positive
+126,"Food स्वादिष्ट है - specials से regular menu-fare तक, dishes ने कभी disappoint नहीं किये हैं।",4,"['Food', 'dishes', 'specials', 'regular menu-fare']","['positive', 'positive', 'positive', 'positive']",positive
+2271,"हमारा son pizza पसंद करता है और हमारे पास home city में एक certified Neapolitan pizzaria (Seattle) है, हमे nearly यह इतना पसंद है - और differences किसी भी restaurant में reflection की तुलना में व्यक्तिगत पसंद से अधिक था।",1,['pizza'],['positive'],positive
+37,"Toons को recently redone किया गया है, इसलिए यह अब एक बहुत ही attractive space है।",1,['space'],['positive'],positive
+215,"सालों से host, Vittorio और उसके crew ने हमेशा मुझे family की तरह treat किया है - हालांकि सभी business के साथ यह इतना little gem नहीं, यह amazing है लेकिन-लगातार visitors को याद रखने में सक्षम नहीं है।",2,"['crew', 'host']","['positive', 'positive']",positive
+2387,Service ठीक है और वो आपको view enjoy करने के लिए allow करते हैं।,2,"['Service', 'view']","['positive', 'positive']",positive
+108,"बहुत romantic fires - मैंने literally Lanterna में घंटों बिताए हैं, वहाँ के extensive wine से wine को पीते और ambience को enjoy कर रहा हूँ।",3,"['wine', 'ambience', 'wine']","['positive', 'positive', 'positive']",positive
+2157,"कुल मिलाकर, वहाँ ingredients और technique है और मुझे lunch या dinner पर return होने के लिए काफी encourage किया जाता है, यह देखने के लिए कि क्या flavour palette की boldness improve होती है।",4,"['ingredients', 'technique', 'lunch', 'dinner']","['positive', 'positive', 'neutral', 'neutral']",positive
+2319,Quality ingredients के लिए शानदार value है।,1,['ingredients'],['positive'],positive
+771,Bottles of wine सस्ती और अच्छी है।,1,['Bottles of wine'],['positive'],positive
+2763,Frites अगर थोड़े मोटे हों तो स्वादिष्ट होते हैं।,1,['Frites'],['positive'],positive
+2521,Ingredients organic हैं जो मेरे लिए real में plus हैं।,1,['Ingredients'],['positive'],positive
+490,Bartender से हमेशा SEASONAL beer के लिए पूछें !!!,2,"['SEASONAL beer', 'Bartender']","['positive', 'neutral']",positive
+688,"पास के great chinese food के लिए, आपके पास Wu Liang Ye और Grand Sichuan सिर्फ एक block दूर है।",1,['chinese food'],['positive'],positive
+2454,Dinner menu बहुत diverse और top-notch भी है।,1,['Dinner menu'],['positive'],positive
+2333,Lox भी हमेशा fresh है।,1,['Lox'],['positive'],positive
+527,उन्होंने Thailand का दौरा किया है और वह cuisine के बड़े expert हैं।,1,['cuisine'],['positive'],positive
+1884,Chocolate mud cake (warmed) को dulce de leche gelato के 2 scoops के साथ आज़माएं।,2,"['Chocolate mud cake (warmed)', 'dulce de leche gelato']","['positive', 'positive']",positive
+2349,"मैंने यह secret last 13 years में जाना है, Emilio (Godfather) ने लगातार food और wine gods के लिए mortal prices पर serve किया है।",3,"['food', 'wine', 'prices']","['positive', 'positive', 'positive']",positive
+1974,Dinner की entree के लिए prices 9$ और lunch के लिए और कम है।,4,"['prices', 'entree', 'Dinner', 'lunch']","['positive', 'positive', 'neutral', 'positive']",positive
+99,हम दोनों ने pasta dish का option चुना और उसे timely और ताज़ा served किया गया था।,2,"['pasta dish', 'served']","['positive', 'positive']",positive
+2733,"अपना money बचाओ और calories waste मत करो, उसके बजाय Washington Street के Margharita's में जाओ, उनका food शानदार और service कमाल की है।",2,"['food', 'service']","['positive', 'positive']",positive
+2191,"Service extraordinary है, फिर भी overbearing है, और decor Queens में trendy SoHo का एक taste देती है। ",2,"['Service', 'decor']","['positive', 'positive']",positive
+2287,Wine और service भी बहुत अच्छा था।,2,"['Wine', 'service']","['positive', 'positive']",positive
+2242,उनका whitefish salad शानदार था--सभी whitefish little mayo के साथ थे।,3,"['whitefish salad', 'whitefish', 'mayo']","['positive', 'positive', 'positive']",positive
+2863,"यदि आप pre-theatre menu के लिए जाते हैं, हालांकि यह एक greater deal होगा।",1,['pre-theatre menu'],['positive'],positive
+230,सभी मामलों में यह एक शानदार place खासकर value for money है।,1,['value for money'],['positive'],positive
+1525,Drinks हमेशा अच्छा बना है और wine selection काफी priced है।,3,"['Drinks', 'wine selection', 'priced']","['positive', 'neutral', 'positive']",positive
+254,"मुझे यह cold night में मिला, warm up करने के लिए यह एक perfect spot है।",1,['spot'],['positive'],positive
+103,यदि आपके पास कोई reservation है तो आप max 5 minutes तक wait करेंगे - इसलिए bar में एक drink लें।,3,"['reservation', 'drink', 'bar']","['positive', 'neutral', 'neutral']",positive
+2289,बहुत अधिक मसालेदार chai tea भी great थी।,1,['chai tea'],['positive'],positive
+2371,Fast service.,1,['service'],['positive'],positive
+270,Cold appetizer dishes के taste उसी प्रकार के थे जैसे कि मुझे Taiwan में बड़े होते time के taste की याद आते है।,1,['Cold appetizer dishes'],['positive'],positive
+106,"Location के लिए, prices बहुत ही reasionable हैं।",2,"['prices', 'Location']","['positive', 'neutral']",positive
+164,"और Kruno का, beverage manager जो best bartender है उससे मुझे अभी मिलना है।",2,"['bartender', 'beverage manager']","['positive', 'positive']",positive
+1549,"Food में  famous scrumptious bombay style chaat जैसे bhelpuri, sevpuri, और samosa chaats, साथ ही अन्य great indian appetizers शामिल हैं।",6,"['Food', 'bhelpuri', 'sevpuri', 'samosa chaats', 'indian appetizers', 'bombay style chaat']","['positive', 'positive', 'positive', 'positive', 'positive', 'positive']",positive
+2311,Monday nights को prix fix में $28 की bargain है - इसमें three course meal के साथ three glasses of wine हर एक course के साथ paired रहते हैं।,4,"['prix fix', 'three course meal', 'glasses of wine', 'course']","['positive', 'positive', 'positive', 'neutral']",positive
+647,"यदि आप wine और cheese और स्वादिष्ट french fare पसंद करते हैं, तो आप Artisanal पसंद करेंगे!",3,"['wine', 'french fare', 'cheese']","['positive', 'positive', 'positive']",positive
+2891,"Traditional French decour सुहावना था, हालांकि hall थोड़ा noisy था - restaurant full था और conversation को maintain रखने में able होने के लिए हमें अपनी voices raise करनी पड़ी।",2,"['Traditional French decour', 'hall']","['positive', 'negative']",positive
+1122,यदि आप thai cuisine पसंद करते हैं तो मैं एकदम से SEA को recommend करूंगा!,1,['thai cuisine'],['positive'],positive
+374,"Staffs attentive हैं, और उनके faces पर smiles है।",1,['Staff'],['positive'],positive
+2193,Service शानदार और food delicious था।,2,"['Service', 'food']","['positive', 'positive']",positive
+1944,"Service great है, takeout भी अच्छा है।",2,"['Service', 'takeout']","['positive', 'positive']",positive
+1463,"एकमात्र सकारात्मक था कि wait staff जो prompt, knowledgable और likeable था।",1,['wait staff'],['positive'],positive
+2148,Ambience बहुत calm और quiet है।,1,['Ambience'],['positive'],positive
+2519,"यह little confusing हो सकता है कि कोई कहाँ order करने जा रहा है, लेकिन एकबार जब food order हो गया, तो आप वहां traet के लिए हैं।",1,['food'],['positive'],positive
+952,Waitstaff बहुत अच्छे थे और उन्होंने मेरे husband को उनके meal को enjoy करने के लिए swordfish suggest किया।,3,"['Waitstaff', 'swordfish', 'meal']","['positive', 'positive', 'positive']",positive
+2907,मैं इसे special occasion के लिए highly recommend करूंगा -- यह provide करता है और अच्छी setting और nice service देता है।,2,"['setting', 'service']","['positive', 'positive']",positive
+2029,"हालांकि, ambience के लिए जाओ, और food को पूरे world trip के लिए एक companion की तरह consider करो! ",2,"['ambience', 'food']","['positive', 'negative']",positive
+1819,French indian fusion के ये innovators dishes बनाने का एक great job करते हैं जो अभी भी accessible होने के साथ possibly interesting है।,2,"['French indian fusion', 'dishes']","['positive', 'positive']",positive
+2233,"बिलकुल, setting अच्छा है।",1,['setting'],['positive'],positive
+2661,आप अपने fridge को stock करने के लिए chutneys के packages भी ले सकते हैं!,1,['chutneys'],['positive'],positive
+1777,"यदि आप seafood को love करते हैं, तो आप इस place को भी love करेंगे!",2,"['seafood', 'place']","['positive', 'positive']",positive
+2951,"Usha के लिए पूछो, manhattan में सबसे अच्छी bartender.",1,['bartender'],['positive'],positive
+2662,Bar के बहुत से selections हैं और mixed drink special एक 2 में से 1 के लिए catcher है!,2,"['Bar', 'mixed drink special']","['positive', 'positive']",positive
+1009,Green curry with vegetables को आज़माएँ।,1,['Green curry with vegetables'],['positive'],positive
+1316,"सादा Thai food के lacking वाले area में, यह सबसे अच्छे places में से एक है।",1,['Thai food'],['positive'],positive
+1399,Delivery service भी शानदार है।,1,['Delivery service'],['positive'],positive
+1318,Food कुछ आश्चर्य tasty dishes सहित average या उससे ऊपर था।,2,"['Food', 'dishes']","['positive', 'positive']",positive
+1719,मैंने कभी भी ऐसा cheescake नहीं खाया है।,1,['cheescake'],['positive'],positive
+912,"जब तुम उनके main dining room में बैठ रहे हो, (जो शानदार hand-painted high ceiling है) तो तुम outside world को कभी नहीं जानोगे।",2,"['main dining room', 'ceiling']","['positive', 'positive']",positive
+673,"सौभाग्यवश हमने BBQ Salmon, Sea Bass और Crispy Duck के लिए जगह बचा लिया।",3,"['BBQ Salmon', 'Sea Bass', 'Crispy Duck']","['positive', 'positive', 'positive']",positive
+1970,Salads से meal शुरू करने का तरीका delicious है।,2,"['Salads', 'meal']","['positive', 'positive']",positive
+1871,Staff courteous और friendly है।,1,['Staff'],['positive'],positive
+539,"सारे पैसे interior decoration में चले गए, एक भी chefs के पास नहीं गया।",2,"['interior decoration', 'chefs']","['positive', 'negative']",positive
+861,Fresh ingredients और सबकुछ order करने को बना है।,1,['ingredients'],['positive'],positive
+1487,"उसके drinks बहुत inventive, स्वादिष्ट और classy हैं।",1,['drinks'],['positive'],positive
+2565,उनके यहाँ कुछ great entrees भी हैं।,1,['entrees'],['positive'],positive
+1021,"साथ ही, Pad Thai यहाँ पर excellent है।",1,['Pad Thai'],['positive'],positive
+1433,आपको shrimp appetizers को try करना चाहिए।,1,['shrimp appetizers'],['positive'],positive
+2890,"जबकि इसे मुश्किल से एक restaurant कहा जा सकता है, और यह Manhatten: एक plate rice के साथ heaped के 2-3 entrees के लिए $4 एक best deal हो सकता है।",2,"['rice', 'entrees']","['positive', 'positive']",positive
+2868,"Check कीजिये, यह आपके stomach या आपके wallet को hurt नहीं करेगा।",2,"['stomach', 'wallet']","['positive', 'positive']",positive
+2498,"जबकि delivery पर भी, उसके juicy pork buns बहुत अच्छे हैं।",1,['pork buns'],['positive'],positive
+1766,उसके बाद home में बना grilled cheese शानदार था!!,1,['grilled cheese'],['positive'],positive
+617,"Atmosphere unheralded है, service impecible है, और food शानदार है।",3,"['Atmosphere', 'service', 'food']","['positive', 'positive', 'positive']",positive
+442,मैंने जहां भी visit किया है तो देखा कि सभी Indian restaurants में यह सबसे अच्छा music है।,1,['music'],['positive'],positive
+384,"Internet पर Ping's की खोज के बाद, हमने qualms से enter किया लेकिन तुरंत fish tanks में आसानी से डाल दिया गया जो आपको अंदर की ओर walk करते समय greet करता है।",1,['fish tanks'],['positive'],positive
+2098,"Bread soft paratha bread है (plain bread से अलग जो वे Calcutta में use करते हैं), और stuffing tandoori style की है और बहुत flavorful है।",5,"['Bread', 'paratha bread', 'bread', 'stuffing', 'tandoori']","['positive', 'positive', 'negative', 'positive', 'positive']",positive
+320,Lunch special पूरी एक steal की है।,1,['Lunch special'],['positive'],positive
+1843,"Steak अच्छी है, fish अच्छी है और sushi surprisingly शानदार थी।",3,"['Steak', 'fish', 'sushi']","['positive', 'positive', 'positive']",positive
+2348,"Place sleek, modern और playfull है और मैं बार-बार लौटूंगा। ",1,['Place'],['positive'],positive
+1866,Wine list extensive और impressive है।,1,['Wine list'],['positive'],positive
+2356,Salads शानदार थे।,1,['Salads'],['positive'],positive
+2727,"शानदार food, शानदार decor, शानदार service।",3,"['food', 'decor', 'service']","['positive', 'positive', 'positive']",positive
+1773,Summer में बाहर एक terrace पर खाएं (Suan की एक और great feature) !!!,1,['terrace'],['positive'],positive
+2373,"Staff excellent है, special है: bar के पीछे वह girl, european chic हैं।",2,"['Staff', 'bar']","['positive', 'neutral']",positive
+1526,हमने एक house salad भी share किया था जो fresh था।,1,['house salad'],['positive'],positive
+1545,"Overall, मैं अभी भी impressed हूं कि यह place अभी भी exist करता है और prices भी काफी decent हैं लेकिन फिर भी, यह Chinatown है।",1,['prices'],['positive'],positive
+944,"यह कुछ बहुत अच्छा, inexpensive sushi है।",1,['sushi'],['positive'],positive
+2439,"अगर weather अच्छा है, तो बाहर की table को रोके रखने का try करें।",1,['table'],['positive'],positive
+369,जब आप wait करते हैं तो servers आपके order का कुछ sample slices देता है (shortly मैं add कर सकूँ)।,1,['servers'],['positive'],positive
+463,हमने एक शानदार desserts खाया (आज तक के best cannoli के साथ खाया है) और तब उन्होने on the house में after dinner drink पेशकश किया।,3,"['desserts', 'cannoli', 'after dinner drink']","['positive', 'positive', 'positive']",positive
+1376,Best Taiwanese food in NY!,1,['Taiwanese food'],['positive'],positive
+297,हमारी family ने एक restaurant में इस तरह के incredible entertainment की expectation नहीं की थी।,1,['entertainment'],['positive'],positive
+406,"हमने शुरुआत में dinner reservations किए और thoroughly impressed हुआ था, ये मुझे मेरे grandfather की याद दिलाती है, इस पुराने school के Italian scenery को admire करने में बहुत से fun stuff भी हैं।",2,"['scenery', 'dinner reservations']","['positive', 'positive']",positive
+2239,सबसे अच्छा drumsticks over rice और town में sour spicy soup!,2,"['drumsticks over rice', 'sour spicy soup']","['positive', 'positive']",positive
+780,"Service impeccable और unobtrusive थी - staff जानते हैं कि उन्हें क्या करना है - अपने menu को जानने के लिए, अपना meal present करें और अपने needs को attend करें।",4,"['Service', 'staff', 'menu', 'meal']","['positive', 'positive', 'neutral', 'neutral']",positive
+2090,"Service बहुत अच्छा था - prompt, attentive और non-intrusive था।",1,['Service'],['positive'],positive
+343,"दोनों delicious हैं, cooks friendly हैं और एक moment के लिए आपसे बात करते हुए और अपना hand shake के लिए तैयार है।",1,['cooks'],['positive'],positive
+312,Work के रास्ते में एक hot bagel खाने के लिए शानदार place.,1,['hot bagel'],['positive'],positive
+1828,हमारे reservation के time भी हमें promptly बैठाया गया था और service बहुत quick और professional था।,2,"['service', 'reservation']","['positive', 'positive']",positive
+1131,"यह अक्सर खुला रहता है, Pakistani cabbies catering के लिए Crosby St. तक lined up है इसलिए food के साथ आपकी expectation से ज्यादा turnover (surprisingly fresh) होगा।",1,['food'],['positive'],positive
+1048,"मैं lamb के साथ garlic shrimp, okra (bindi), और किसी की भी शिफारिश करता हूँ।",3,"['garlic shrimp', 'lamb', 'okra (bindi)']","['positive', 'positive', 'positive']",positive
+2807,Restaurant में अच्छा food है (लेकिन अगर आप अपनी date को impress करना चाहते हैं तो थोड़ा expensive है)।,1,['food'],['positive'],positive
+568,I just wonder कि आप इतने little money में इतना स्वादिष्ट meal कैसे खा सकते हैं?,2,"['meal', 'money']","['positive', 'positive']",positive
+919,Service हमेशा से friendly और efficient है।,1,['Service'],['positive'],positive
+2845,"बहुत शानदार food है, इसे खा सकते हैं एक से ज्यादा person खा सकते हैं।",1,['food'],['positive'],positive
+1646,"Great food, great lay out and awesome service.",3,"['food', 'lay out', 'service']","['positive', 'positive', 'positive']",positive
+815,यहाँ का एक food (जो Cantonese है) नाम से great service देता है।,2,"['food', 'Cantonese']","['positive', 'positive']",positive
+2820,एक और plus यह है कि अधिकांश entrees approx है।,1,['entrees'],['positive'],positive
+874,सबसे earlier आदमी जो restaurent पर comment कर रहा था जो menu के साथ उतना positive way में उतना experimenting नहीं दिखा।,1,['menu'],['positive'],positive
+462,मेरी fiance मुझे last week मेरे birthday पर Scopa ले गयी और मैंने food पर believe नहीं किया।,1,['food'],['positive'],positive
+2038,"जब आप beef का एक piece चाहिए, head on over.",1,['beef'],['positive'],positive
+1969,उचित prices पर शानदार food.,2,"['food', 'prices']","['positive', 'positive']",positive
+354,"Seasonal, और हमेशा delicious, specials अवश्य आज़माएँ।",1,['specials'],['positive'],positive
+1150,"Pizza बहुत ही शानदार है, जैसा कि homemade pasta है।",2,"['Pizza', 'homemade pasta']","['positive', 'positive']",positive
+2384,"केवल एक चीज जो waiters आपके लिए नहीं करते हैं, वह है जब आप जाते हैं तो अपनी chin wipe कर लें।",1,['waiters'],['positive'],positive
+341,इस little place ने मेरे expectations को definitely बढ़ा दिया है और आपको आपके money के बदले पक्का बहुत सारा food मिलेगा।,3,"['food', 'money', 'place']","['positive', 'positive', 'conflict']",positive
+770,हालांकि pizza अच्छा है।,1,['pizza'],['positive'],positive
+856,Izakaya का बहुत popular style (Sake-friendly dishes का छोटा portion).,3,"['Sake', 'dishes', 'portion']","['positive', 'positive', 'neutral']",positive
+500,सुनिश्चित करें कि आपके पास Spicy Scallop roll है ..,1,['Spicy Scallop roll'],['positive'],positive
+431,Thai ice tea आश्चर्यजनक रूप से smooth और स्वादिष्ट थी!,1,['Thai ice tea'],['positive'],positive
+2401,Food शानदार है।,1,['Food'],['positive'],positive
+1648,हम Wednesday की night को चले और promptly seated रहे।,1,['seated'],['positive'],positive
+684,यहां का pizza delicious है।,1,['pizza'],['positive'],positive
+435,"Experience के best part को जानकर manager (एक bubbly, एक great smile के साथ young woman) ने truly परवाह किया कि हम कैसे कर रहे थे।",1,['manager'],['positive'],positive
+2491,"Turnover increase करने के effort में, restaurant complementary espresso cup filled with chocolate mousse के अलावा कोई desserts offer नहीं करता है। ",2,"['espresso cup filled with chocolate mousse', 'desserts']","['positive', 'negative']",positive
+2336,तो मैं केवल यह कहने की try कर रहा हूं कि यह restaurant अब तक का best thai food restaurant है जहां मैं कभी गया हूं।,1,['thai food'],['positive'],positive
+2911,Pizza शानदार था।,1,['Pizza'],['positive'],positive
+2516,Food शानदार और inexpensive है।,1,['Food'],['positive'],positive
+1306,"मैंने sake के साथ $ 49 में tuna tartare, mushroom ravioli, pinot noir और एक dessert wine के साथ chocolate sampler लिया।",6,"['tuna tartare', 'sake', 'mushroom ravioli', 'pinot noir', 'chocolate sampler', 'dessert wine']","['positive', 'positive', 'positive', 'positive', 'positive', 'positive']",positive
+678,मैं यहां एक child की तरह आ रहा हूं और always taste के लिए वापस आता हूं।,1,['taste'],['positive'],positive
+1175,The prices were fantastic.,1,['prices'],['positive'],positive
+2449,"Main course एक average portion था, और कुल मिलाकर decent था।",2,"['Main course', 'portion']","['positive', 'neutral']",positive
+1422,Food अद्भुत है !!!!,1,['Food'],['positive'],positive
+2751,Food पसंद है।,1,['Food'],['positive'],positive
+1293,Magnificent block के अंत में located है।,1,['located'],['positive'],positive
+199,"अच्छा music, बढ़िया food, speedy service सस्ती prices.",4,"['music', 'food', 'service', 'prices']","['positive', 'positive', 'positive', 'positive']",positive
+1113,Theater के साथ 2 blocks दूर हमने एक शानदार room में स्वादिष्ट meal खाया।,2,"['meal', 'room']","['positive', 'positive']",positive
+2103,एक बेहतर service.,1,['service'],['positive'],positive
+397,"Night में बिना reservation के, हमें थोड़ी देर bar में wait करना पड़ा, लेकिन manager इतना अच्छा था कि हमारे wait को एक यादगार experience बना दिया।",4,"['manager', 'reservation', 'bar', 'wait']","['positive', 'neutral', 'neutral', 'positive']",positive
+59,"Corned beef और pastrami उनकी तुलना में शानदार, बहुत कम fatty है जो Times Square के आसपास के बड़े tourist places पर मिलते हैं।",2,"['Corned beef', 'pastrami']","['positive', 'positive']",positive
+1069,मेरे सभी co-workers ने कहा कि food amazing और surprised करने वाला था  कि उन्होंने इस place के बारे में क्यों नहीं सुना।,1,['food'],['positive'],positive
+2202,"यह friends से मिलने, lunch करने, dinner, pre-theatre or after-theatre drinks के लिए एक शानदार spot है!",4,"['lunch', 'dinner', 'pre-theatre or after-theatre drinks', 'spot']","['positive', 'positive', 'positive', 'positive']",positive
+1255,Portions से careful- वे बड़े हैं।,1,['Portions'],['positive'],positive
+1878,यह big draw आप सभी को यहाँ $ 19.95 पर sushi दे सकते हैं!,1,['sushi'],['positive'],positive
+565,यह amazing indian food खाने के लिए एक perfect place है।,1,['indian food'],['positive'],positive
+778,बहुत अच्छी service एवं बहुत अच्छी prices.,2,"['service', 'prices']","['positive', 'positive']",positive
+1557,"वहाँ ATMOSPHERE COMPACT, MODERN फिर भी COZY है।",1,['ATMOSPHERE'],['positive'],positive
+750,"हम sushi के बारे में बहुत particular हैं और दोनों हर choice के साथ खुश थे जिसमें ceviche mix (special), crab dumplings, assorted sashimi, sushi और rolls, दो type के sake, और banana tempura शामिल है।",8,"['sushi', 'ceviche mix (special)', 'crab dumplings', 'assorted sashimi', 'sushi', 'rolls', 'sake', 'banana tempura']","['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']",positive
+170,"सभी 5 नए avenue restaurants में से, यह एक offers अब तक values for your money के लिए best रहा है।",1,['values for your money'],['positive'],positive
+2529,"Waiters अच्छे हैं, food स्वादिष्ट है और bill कभी भी बहुत large नही आता है।",3,"['Waiters', 'food', 'bill']","['positive', 'positive', 'positive']",positive
+920,Prices बहुत अच्छे हैं।,1,['Prices'],['positive'],positive
+883,बस Tamarind से  lunch करके वापस आया और यह excellent था।,1,['lunch'],['positive'],positive
+1190,"Service prompt, friendly और great थी।",1,['Service'],['positive'],positive
+2618,Plus उन्होने एक perfect martini बनायी है।,1,['martini'],['positive'],positive
+1984,Takeout बहुत शानदार है क्योंकि वे high quality के tupperware भी देते हैं।,1,['Takeout'],['positive'],positive
+980,जो people वहां work करते हैं वे हमेशा इतने friendly होते हैं कि आप sometime भूल जाते हैं कि आप New York में हैं।,1,['people'],['positive'],positive
+1562,"Food mostly scratch से, ताज़ा और अच्छे से prepared करके बनाया जाता है।",1,['Food'],['positive'],positive
+1453,Olive cream cheese या lox spread को पूरे wheat के bagel पर लगाकर try करें।,3,"['Olive cream cheese', 'lox spread', 'bagel']","['positive', 'positive', 'neutral']",positive
+1838,"जब हम बैठ गए, तो हमें great और fast service मिली।",1,['service'],['positive'],positive
+1110,Gulab jamun पर अड़े रहें।,1,['Gulab jamun'],['positive'],positive
+1355,"अपने surrounding में दिये गए incredible architecture को देखते हुए, इस place का कोई character नहीं है।",2,"['architecture', 'place']","['positive', 'negative']",positive
+877,अगर आप laid back scene को देख रहे हैं तो atmosphere अच्छा है और weekend afternoon में खर्च होना एक expensive तरीका है।,1,['atmosphere'],['positive'],positive
+1801,Service और food की quality की तुलना में prices सस्ती थीं।,3,"['prices', 'Service', 'food']","['positive', 'positive', 'positive']",positive
+1315,"पता नहीं पहले के reviewer कहाँ हैं, lonk, dined, लेकिन Saul एक शानदार neighborhood में है और food शानदार है।",2,"['neighborhood', 'food']","['positive', 'positive']",positive
+15,"कमाल का atmosphere, स्वादिष्ट अच्छी dishes और मित्र जैसी service.",3,"['atmosphere', 'dishes', 'service']","['positive', 'positive', 'positive']",positive
+2141,Obv caviar line के सबसे top पर है लेकिन बाँकी का menu सब बहुत diverse है और यह बहुत से different varietis को taste करने का chance देता है।,2,"['Obv caviar', 'menu']","['positive', 'positive']",positive
+1002,Portions बड़े हैं और servers हमेशा हमें एक different starter के साथ surprise करते हैं।,3,"['Portions', 'servers', 'starter']","['positive', 'positive', 'positive']",positive
+564,"तीन courses - choices के साथ excellent mussels, puff pastry goat cheese और salad with a delicious dressing, और एक hanger steak au poivre भी include करता है जो इस world से अलग है।",5,"['mussels', 'puff pastry goat cheese', 'salad with a delicious dressing', 'hanger steak au poivre', 'courses']","['positive', 'positive', 'positive', 'positive', 'neutral']",positive
+109,मैं meatballs और caprese salad की पेशकश करता हूं और meal के लिए beans on toast एक शानदार start था!,4,"['meatballs', 'caprese salad', 'beans on toast', 'meal']","['positive', 'positive', 'positive', 'neutral']",positive
+2780,Spreads और toppings शानदार हैं - हालाकि थोड़े priecy हैं।,2,"['Spreads', 'toppings']","['positive', 'positive']",positive
+117,"इस दौरान, हमारी bottle ख़त्म करने के बाद bartender ने अपने reserve से champagne डालना जारी रखा और हमने turnip soup with pureed basil का आनंद लिया।",3,"['bartender', 'champagne', 'turnip soup with pureed basil']","['positive', 'neutral', 'positive']",positive
+1041,कोई staff nonsense नहीं है।,1,['staff'],['positive'],positive
+655,"Lahore में late night तक आपको सस्ते में बहुत tasty food मिलने के लिए यह एक शानदार place है, आपको FOUR DOLLARS में भी मिले food की quantity को finish करने में भी थोड़ा trouble होगा।",2,"['food', 'food']","['positive', 'positive']",positive
+1792,"Staff accomodate कर रहा है, ambiance exciting और अभी तक relax है, और food इस world से बाहर का है!",3,"['Staff', 'ambiance', 'food']","['positive', 'positive', 'positive']",positive
+2472,"अच्छा ambiance, अच्छा little bar, अच्छा bartender, Francois और अच्छी service है।",4,"['bar', 'bartender', 'service', 'ambiance']","['positive', 'positive', 'positive', 'positive']",positive
+1684,"Food को enjoy करने के दौरान, हम poor service से बहुत disappoint थे (waiter बहुत competent नहीं था और service धीमी थी) और remorse की कमी थी।",4,"['Food', 'service', 'waiter', 'service']","['positive', 'negative', 'negative', 'negative']",positive
+1479,"Haru बहुत ताज़ा fish serve करता है, एक उभरता, आधुनिक ambiance, Park Avenue South में मुख्य location और मित्रवत service है।",4,"['fish', 'service', 'ambiance', 'location']","['positive', 'positive', 'positive', 'positive']",positive
+714,"मैं area और folks समझता हूँ आपको यहाँ romantic, alluring ambiance और five star service जो एक sommlier के featuring और captain के back waiters की एक जटिल maze के लिए आने की ज़रूरत नहीं है - आप authentic foods, tastes, experiance के लिए आते हैं।",7,"['ambiance', 'service', 'foods', 'tastes', 'sommlier', 'captain', 'back waiters']","['positive', 'positive', 'positive', 'positive', 'positive', 'positive', 'positive']",positive
+677,मैं यहां फिर से eating के लिए उत्सुक हूं।,1,['eating'],['positive'],positive
+2014,मैंने और मेरी wife ने इस week में पहले यहां खाये हैं और food के बारे में ranting और raving करना बंद नहीं किया है।,1,['food'],['positive'],positive
+1472,"एक typical pizza joint नहीं, बल्कि low key के लिए nice और night के dinner के लिए fairly सस्ता और अच्छा है।",1,['dinner'],['positive'],positive
+885,cheesecake को आज़माएँ!,1,['cheesecake'],['positive'],positive
+627,Le Pere Pinard में $15 pre-theater menu जो बेहतरीन है।,1,['pre-theater menu'],['positive'],positive
+1635,सभी pizzas बहुत terrific हैं और price भी better है!,2,"['pizzas', 'price']","['positive', 'positive']",positive
+1758,"शानदार food (spinach and corn dumplings और massamman curry), बहुत friendly और कोई बकवास service नहीं और एक clean और funky bathroom.",5,"['food', 'spinach and corn dumplings', 'service', 'bathroom', 'massamman curry']","['positive', 'positive', 'positive', 'positive', 'positive']",positive
+718,"Eating in, atmosphere इसे बचाता है यह बहुत हताशापूर्ण experiance है।",1,['atmosphere'],['positive'],positive
+680,"एक glass of Leaping Lizard, एक glass of prosecco, और mussels में सब खुश थे।",3,"['glass of prosecco', 'mussels', 'glass of Leaping Lizard']","['positive', 'positive', 'positive']",positive
+2808,मैं Caviar Russe को किसी को भी highly recommend करता हूँ जो स्वादिष्ट top grade caviar और शानदार service चाहता हो।,2,"['Caviar', 'service']","['positive', 'positive']",positive
+2247,मैंने सभी को यह place recommend किया जिनहोने पूछा कि मैं एक अच्छे meal के लिए कहाँ जाऊँ।,1,['meal'],['positive'],positive
+158,थोड़ा crowded और थोड़ा overpriced होने के अलावा एक atmosphere energy से भरा हुआ (और बिलकुल beautiful people) और food surprising अच्छा कर रहा था!,3,"['atmosphere', 'people', 'food']","['positive', 'positive', 'positive']",positive
+276,"मैं almost एक bad review लिखना चाहता था, इसलिए कोई भी यहां कभी नहीं जाता और मैं खुद को सभी dumplings दे सकता था!",1,['dumplings'],['positive'],positive
+2636,इस place पर वाकई fresh sushi और Japanese classic cuisine का एक अच्छा large menu उपलब्ध है।,3,"['sushi', 'menu', 'Japanese classic cuisine']","['positive', 'positive', 'positive']",positive
+1894,Service बहुत अच्छी और warm थी।,1,['Service'],['positive'],positive
+2315,New York city - hands down में यह सबसे अच्छी sushi है।,1,['sushi'],['positive'],positive
+1679," Anyways, यदि आप neighborhood में good food खाने के लिए गए हैं, तो मैं Tamari के street पर जाने के अलावा अपना time waste नहीं करूंगा।",1,['food'],['positive'],positive
+602,"Unfortunately food outstanding है, लेकिन बाकी इस restaurant का सबकुछ pits है।",1,['food'],['positive'],positive
+1358,"जबकि place hotspot hangout नहीं है, drinks unique और बहुत सारे buck के लिए bang pack करता है।",2,"['drinks', 'place']","['positive', 'negative']",positive
+1378,यह place महान food के लिए एक महान stop है।,1,['food'],['positive'],positive
+2265,उनके pad penang delicious और बाँकी सबकुछ fantastic है।,1,['pad penang'],['positive'],positive
+1778,"अच्छी, तेज service.",1,['service'],['positive'],positive
+305,"Wait staff बहुत freindly है, वे ऐसा feel कराते हैं कि आप एक freindly little european town में खाना खा रहे हैं।",1,['Wait staff'],['positive'],positive
+2360,Food authentic Italian है- स्वादिष्ट है!,1,['Food'],['positive'],positive
+314,जब हम पहुंचे तो nice glass of Sangria का wait कर रहे थे।,1,['glass of Sangria'],['positive'],positive
+2003,मैं happy हूँ मैंने जो food खाया वो awesome था।,1,['food'],['positive'],positive
+2558,"outside खाने के लिए यह बहुत lovely, peaceful place है।",1,['place'],['positive'],positive
+1743,Banana tower भी एक शानदार dessert है।,2,"['Banana tower', 'dessert']","['positive', 'positive']",positive
+311,मैं Cafe St. Bart's में frist time आयी और मुझे कहना होगा कि food कितनी स्वादिष्ट और service कमाल की थी।,2,"['food', 'service']","['positive', 'positive']",positive
+2408,Atmosphere Sripraphai (ज्यादा modern और sleek) से बहुत अच्छा है।,1,['Atmosphere'],['positive'],positive
+2448,Service excellent था - friendly और attentive था।,1,['Service'],['positive'],positive
+516,"Food एक बहुत ही capable kitchen के साथ uniformly exceptional है, जो आपको खाने की तरह proudly whip up करेगा, चाहे वह menu पर हो या न हो।",3,"['Food', 'kitchen', 'menu']","['positive', 'positive', 'neutral']",positive
+2831,"Drinks एक saving grace है, लेकिन service staff, कृपया, अपने आप पर काबू पाएं।",2,"['Drinks', 'service staff']","['positive', 'negative']",positive
+643,उनका tuna tartar appetizer पर मरने को है।,1,['tuna tartar appetizer'],['positive'],positive
+915,Good food.,1,['food'],['positive'],positive
+963,Baluchi के पास मज़ेदार food और reasonable prices पर एक अच्छा decor है।,3,"['food', 'decor', 'prices']","['positive', 'positive', 'positive']",positive
+2854,"यदि आप Upper Manhattan में रहते हैं, Siam Square place Thai food के लिए है।",1,['Thai food'],['positive'],positive
+924,"हालांकि कुछ staples कमाल के हैं (burger, कुछ pastas), food वास्तव में point नहीं है।",4,"['burger', 'pastas', 'food', 'staples']","['positive', 'positive', 'neutral', 'positive']",positive
+1449,"हालाँकि, हमारे पास की table को देखते हुए, हम दोनों ने pizza order करना चाहा, जो कि PERRECT दिखता था।",1,['pizza'],['positive'],positive
+2749,"अच्छा atmosphere है, सभी combinations के hottest music dress code केवल friday को छोड़कर strict हैं। ",3,"['atmosphere', 'music', 'dress cod']","['positive', 'positive', 'negative']",positive
+1740,"Spicy tuna roll unusually अच्छा और rock shrimp tempura शानदार था, share करने के लिए कमाल का appetizer था! ",3,"['Spicy tuna roll', 'rock shrimp tempura', 'appetizer']","['positive', 'positive', 'positive']",positive
+1929,"आपको वही मिलता है जिसके लिए आप pay करते हैं और इस logic को mind में रखते हुए, Spice के beautiful setting में कुछ cheap eats और drinks के लिए एक शानदार place है।",3,"['eats', 'drinks', 'setting']","['positive', 'positive', 'positive']",positive
+1665,मैंने sashimi plate की भिन्नता को satisfying - ताज़ा और yummy पाया।,1,['sashimi plate'],['positive'],positive
+2899,"यह केवल Thai place था मैं भी NYC जाता हूँ, यह wonderful था, और कुछ night एक live relaxed Jazz के लिए था।",1,['Jazz'],['positive'],positive
+720,मैं atmorphere @ peep पसंद करता हूँ!,1,[],['positive'],positive
+1170,"हमने recently में इस location को try करने का decide किया, और हमारे delight के लिए, उनके पास outdoor seating, तब से perfect है जब से मेरा yorkie मेरे साथ है।",1,['outdoor seating'],['positive'],positive
+1508,"सबसे fresh, सबसे अच्छी variety और सबसे fast delivery.",2,"['variety', 'delivery']","['positive', 'positive']",positive
+746,Waitress ने glasses of wine को suggest किया जो food के साथ बहुत अच्छा चला।,3,"['Waitress', 'food', 'glasses of wine']","['positive', 'neutral', 'positive']",positive
+1952,Unique apppetizers.,1,['apppetizers'],['positive'],positive
+2154,हमारे waiter और सभी people जो उसकी help कर रहे थे attentive और genuine थे।,1,['waiter'],['positive'],positive
